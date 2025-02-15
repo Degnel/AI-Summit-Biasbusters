@@ -83,8 +83,8 @@ if __name__ == '__main__':
                                 'text': response
                             })), main_loop)
 
-                        redis_client.save_message(websocket.remote_address, "user", full_sentence)
-                        redis_client.save_message(websocket.remote_address, "assistant", response)
+                        redis_client.save_message(client_websocket.remote_address, "user", full_sentence)
+                        redis_client.save_message(client_websocket.remote_address, "assistant", response)
                     print(f"\rSentence: {full_sentence}")
             except Exception as e:
                 print(f"Error in recorder thread: {e}")
