@@ -77,14 +77,14 @@ if __name__ == '__main__':
                 if full_sentence:
                     if main_loop is not None:
                         response = llm.chat(full_sentence)
-                        
                         asyncio.run_coroutine_threadsafe(
                             send_to_client(json.dumps({
                                 'type': 'response',
                                 'text': response
                             })), main_loop)
 
-                        redis_client.clear_all_data(websocket.remote_address)
+                        redis_client.save_message(websocket.remote_address, "user", full_sentence)
+                        redis_client.save_message(websocket.remote_address, "assistant", response)
                     print(f"\rSentence: {full_sentence}")
             except Exception as e:
                 print(f"Error in recorder thread: {e}")
