@@ -77,11 +77,14 @@ if __name__ == '__main__':
                 if full_sentence:
                     if main_loop is not None:
                         response = llm.chat(full_sentence)
+                        
                         asyncio.run_coroutine_threadsafe(
                             send_to_client(json.dumps({
                                 'type': 'response',
                                 'text': response
                             })), main_loop)
+
+                        redis_client.clear_all_data(websocket.remote_address)
                     print(f"\rSentence: {full_sentence}")
             except Exception as e:
                 print(f"Error in recorder thread: {e}")
@@ -124,7 +127,7 @@ if __name__ == '__main__':
                     print(f"Error processing message: {e}")
                     continue
         except websockets.exceptions.ConnectionClosed:
-            redis_client.clear_all_data(websocket)
+            redis_client.clear_all_data(websocket.remote_address)
             print("Client disconnected")
         finally:
             if client_websocket == websocket:
