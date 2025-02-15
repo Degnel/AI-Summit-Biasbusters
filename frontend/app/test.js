@@ -7,7 +7,7 @@ let fullSentences = [];
 const serverCheckInterval = 5000; // Check every 5 seconds
 
 function connectToServer() {
-    socket = new WebSocket("ws://localhost:8001");
+    socket = new WebSocket("ws://62.210.150.81:5000");
 
     socket.onopen = function(event) {
         server_available = true;
