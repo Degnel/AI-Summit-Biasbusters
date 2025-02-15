@@ -9,7 +9,7 @@ if __name__ == '__main__':
     import json
     import logging
     import sys
-    from redis import redis_client
+    from redis_client import redis_client
     from llm import LLMAssistant
 
     logging.basicConfig(
