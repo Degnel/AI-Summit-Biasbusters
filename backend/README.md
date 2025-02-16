@@ -1,4 +1,7 @@
-Create a venv
+This backend is based on RealTimeSTT, a super fast real time speech to text based on Fast-Whisper. Thank you to
+
+In order to run this project, you need to setup a VM on Scaleway. To do so, follow the tutorial on their website. 
+Once done, connect to your VM and create a venv.
 Run
 ```
 sudo apt-get update
@@ -9,9 +12,13 @@ sudo apt update && sudo apt install redis
 pip install redis
 pip install RealTimeSTT
 ```
-And activate your venv
+And activate your venv. You'll also need to create a REDIS DB. 
 
-You need to export your Mistral api key
+Change in the frontend code (frontend/app/index.tsx) the serveur IP and the backend code backend (backend/backend.py) the db IP.
+
+You need to export your Mistral api key:
 ```
 export MISTRAL_API_KEY=
 ```
+
+To run the server run "python3 backend/backend.py".
