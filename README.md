@@ -58,4 +58,4 @@ Prerequisites :
     export MISTRAL_API_KEY=<your_api_key>
     ```
 .
-
+We also provide code to benchmark the model we used over 100 first aid use cases. It can be found in the backend/llm.py file. 
