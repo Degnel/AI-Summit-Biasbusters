@@ -1,6 +1,6 @@
 This backend is based on RealTimeSTT, a super fast real time speech to text based on Fast-Whisper. Thank you to KoljaB for providing amazing library.
 
-In order to run this project, you need to setup a VM on Scaleway. To do so, follow the tutorial on their website. 
+The main backend file is backend/stt_2.py, all older versions are available in the 'exploration' direectory. In order to run this project, you need to setup a VM on Scaleway. To do so, follow the tutorial on their website. 
 Once done, connect to your VM and create a venv.
 Run
 ```
