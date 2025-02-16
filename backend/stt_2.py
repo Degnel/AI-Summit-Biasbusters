@@ -51,7 +51,7 @@ if __name__ == '__main__':
     recorder_config = {
         "spinner": False,
         "use_microphone": False,
-        "model": "small",
+        "model": "small.en",
         "language": "en",
         "silero_sensitivity": 0.4,
         "webrtc_sensitivity": 2,
