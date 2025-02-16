@@ -114,9 +114,9 @@ if __name__ == '__main__':
                     
                 # Read the metadata length (first 4 bytes)
                 metadata_length = int.from_bytes(message[:4], byteorder='little')
-                print(message)
-                print(len(message))
-                print(metadata_length)
+                #print(message)
+                #print(len(message))
+                #print(metadata_length)
                 try:
                     # Get the metadata JSON string
                     metadata_json = message[4:4+metadata_length].decode('utf-8')
