@@ -30,6 +30,7 @@ if __name__ == '__main__':
         global client_websocket
         if client_websocket:
             try:
+                print('sending:', message)
                 await client_websocket.send(message)
             except websockets.exceptions.ConnectionClosed:
                 client_websocket = None
@@ -74,15 +75,17 @@ if __name__ == '__main__':
         while is_running:
             try:
                 full_sentence = recorder.text()
+                print("full sentence:", full_sentence)
                 if full_sentence:
                     if main_loop is not None:
                         response = llm.chat(full_sentence)
+                        print('response:', response)
                         asyncio.run_coroutine_threadsafe(
                             send_to_client(json.dumps({
                                 'type': 'fullSentence',
                                 'text': response
                             })), main_loop)
-
+                        print('saving message to redis')
                         redis_client.save_message(client_websocket.remote_address, "user", full_sentence)
                         redis_client.save_message(client_websocket.remote_address, "assistant", response)
                     print(f"\rSentence: {full_sentence}")
