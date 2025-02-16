@@ -114,7 +114,8 @@ if __name__ == '__main__':
                 if not recorder_ready.is_set():
                     print("Recorder not ready")
                     continue
-                    
+
+                print("start")
                 # Read the metadata length (first 4 bytes)
                 metadata_length = int.from_bytes(message[:4], byteorder='little')
                 #print(message)
