@@ -21,4 +21,5 @@ You need to export your Mistral api key:
 export MISTRAL_API_KEY=
 ```
 
-To run the server run "python3 backend/stt_2.py".
+To run the server run 
+```python3 backend/stt_2.py```
