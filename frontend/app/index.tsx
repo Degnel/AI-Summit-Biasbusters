@@ -44,8 +44,8 @@ export default function Index() {
         setIsChatActive(true);
       } else {
         const {sound_id, video_id} = await processFinalResponse(data);
-        await playSound(result);
-        showAnimation(result);
+        await playSound(sound_id);
+        showAnimation(video_id);
       }
     });
 
@@ -60,7 +60,7 @@ export default function Index() {
     return { sound_id, video_id };
   };
   
-  const isListeningRef = useRef(false); // Utilisation d'un ref pour suivre l'état en temps réel
+  const isListeningRef = useRef(false);
   const intervalRef = useRef<NodeJS.Timeout | null>(null);
 
   const startRecording = async () => {
@@ -160,8 +160,8 @@ export default function Index() {
 
   const playSound = async (id: string) => {
     const sounds: { [key: string]: any } = {
-      "0": require("./audios/gun.wav"),
-      "1": require("./audios/door.wav"),
+      "0": require("./audios/heimlich.wav"),
+
     };
 
     const soundFile = sounds[id];
@@ -181,8 +181,7 @@ export default function Index() {
 
   const showAnimation = (id: string) => {
     const images: { [key: string]: any } = {
-      "0": require("./images/banana.gif"),
-      "1": require("./images/santa.gif"),
+      "0": require("./images/heimlich.gif"),
     };
 
     setActiveResource(images[id]);
