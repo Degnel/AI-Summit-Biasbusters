@@ -43,8 +43,7 @@ export default function Index() {
         setPendingQuestion(`Besoin d'une précision: ${JSON.stringify(data.arguments)}`);
         setIsChatActive(true);
       } else {
-        const result = await processFinalResponse(data);
-        console.log(result)
+        const {sound_id, video_id} = await processFinalResponse(data);
         await playSound(result);
         showAnimation(result);
       }
@@ -57,9 +56,10 @@ export default function Index() {
 
   const processFinalResponse = async (data) => {
     console.log("Réponse finale reçue :", data);
-    return "0"; // Son par défaut
+    const { sound_id, video_id } = JSON.parse(data.arguments);
+    return { sound_id, video_id };
   };
-
+  
   const isListeningRef = useRef(false); // Utilisation d'un ref pour suivre l'état en temps réel
   const intervalRef = useRef<NodeJS.Timeout | null>(null);
 
