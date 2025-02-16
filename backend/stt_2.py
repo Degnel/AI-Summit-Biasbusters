@@ -55,7 +55,7 @@ if __name__ == '__main__':
         "language": "en",
         "silero_sensitivity": 0.4,
         "webrtc_sensitivity": 2,
-        "post_speech_silence_duration": 0.4,
+        "post_speech_silence_duration": 0.3,
         "min_length_of_recording": 0,
         "min_gap_between_recordings": 0,
         "enable_realtime_transcription": True,
