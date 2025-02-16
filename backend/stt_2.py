@@ -79,7 +79,7 @@ if __name__ == '__main__':
                         response = llm.chat(full_sentence)
                         asyncio.run_coroutine_threadsafe(
                             send_to_client(json.dumps({
-                                'type': 'response',
+                                'type': 'fullSentence',
                                 'text': response
                             })), main_loop)
 
