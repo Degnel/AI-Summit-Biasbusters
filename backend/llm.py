@@ -4,6 +4,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Generic, Optional, TypeVar
 
+from tqdm import tqdm
 from dotenv import load_dotenv
 from mistralai import Mistral
 from pydantic import BaseModel, Field
@@ -143,6 +144,30 @@ class LLMAssistant(Generic[T]):
         except Exception as e:
             raise RuntimeError(f"Chat completion failed: {str(e)}")
 
+    def benchmark(self, examples_filepath, answers_filepath) -> float:
+        compt = 0
+
+        with open(examples_filepath, "r", encoding="utf-8") as scenario:
+            examples = scenario.readlines()
+
+        # print(examples)
+
+        with open(answers_filepath, "r", encoding="utf-8") as rep:
+            answers = rep.readlines()
+
+        for example, answer in tqdm(
+            zip(examples, answers),
+            total=len(examples),
+            desc="Benchmarking Progress",
+            unit="pair",
+        ):
+            function_name_prediction = json.loads(self.chat(example))["name"]
+
+            if function_name_prediction == answer:
+                compt += 1
+
+        return compt / len(examples)
+
 
 if __name__ == "__main__":
     recorder_config = {
@@ -162,6 +187,14 @@ if __name__ == "__main__":
 
     recorder = AudioToTextRecorder(**recorder_config)
     llm = LLMAssistant()
+
+    # example_filepath = Config.base_path / "benchmark/100-examples.txt"
+    # chatgpt_filepath = Config.base_path / "benchmark/100-chatgpt.txt"
+
+    # precision = llm.benchmark(example_filepath, chatgpt_filepath)
+    # print(f"{precision}")
+
+    print(llm.benchmark)
 
     while True:
         recorder.text(llm.chat)
