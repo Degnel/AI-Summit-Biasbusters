@@ -14,6 +14,7 @@ socketio = SocketIO(app)
 
 # Configuration du transcripteur
 def text_detected(text):
+    print("text_detected")
     socketio.emit('transcription', {'type': 'realtime', 'text': text})
 
 def full_sentence_detected(sentence):
@@ -52,7 +53,6 @@ def decode_and_resample(audio_data, original_sample_rate, target_sample_rate=441
     buffer_size = len(audio_data)
     element_size = np.dtype(np.int16).itemsize
     print(buffer_size)
-    print(element_size)
     
     # Si la taille du buffer n'est pas un multiple de la taille de l'élément, ajustez-la
     if buffer_size % element_size != 0:

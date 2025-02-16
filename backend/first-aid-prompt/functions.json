@@ -1,0 +1,155 @@
+{
+  "functions": [
+    {
+      "name": "assistance_obstruction_voies_respiratoires",
+      "description": "Aider une personne en train de s'étouffer en réalisant les gestes appropriés.",
+      "parameters": [
+        {
+          "name": "âge",
+          "type": "number",
+          "description": "L'âge de la personne à secourir"
+        }
+      ]
+    },
+    {
+      "name": "assistance_hemorragie_externe",
+      "description": "Contrôler et stopper une hémorragie externe.",
+      "parameters": [
+        {
+          "name": "zone_corporelle",
+          "type": "string",
+          "description": "La zone du corps où se trouve l'hémorragie"
+        },
+        {
+          "name": "intensite_saignement",
+          "type": "string",
+          "description": "L'intensité du saignement"
+        }
+      ]
+    },
+    {
+      "name": "assistance_perte_connaissance",
+      "description": "Évaluer l'état d'une personne inconsciente et appliquer les gestes appropriés.",
+      "parameters": [
+        {
+          "name": "respiration_normale",
+          "type": "boolean",
+          "description": "Indique si la personne respire normalement"
+        }
+      ]
+    },
+    {
+      "name": "assistance_arret_cardiaque",
+      "description": "Réaliser un massage cardiaque et utiliser un défibrillateur si disponible.",
+      "parameters": [
+        {
+          "name": "âge",
+          "type": "number",
+          "description": "L'âge de la personne à secourir"
+        }
+      ]
+    },
+    {
+      "name": "assistance_malaise",
+      "description": "Aider une personne en cas de malaise (évanouissement, vertiges, douleurs).",
+      "parameters": [
+        {
+          "name": "type_malaise",
+          "type": "string",
+          "description": "Le type de malaise (évanouissement, vertiges, douleurs, etc.)"
+        },
+        {
+          "name": "conscience",
+          "type": "boolean",
+          "description": "Indique si la personne est consciente"
+        }
+      ]
+    },
+    {
+      "name": "assistance_plaie",
+      "description": "Désinfecter et protéger une plaie en fonction de sa gravité.",
+      "parameters": [
+        {
+          "name": "taille_plaie_cm",
+          "type": "number",
+          "description": "La taille de la plaie en centimètres"
+        },
+        {
+          "name": "profondeur",
+          "type": "string",
+          "description": "La profondeur de la plaie (peu profonde, profonde, etc.)"
+        }
+      ]
+    },
+    {
+      "name": "assistance_brule",
+      "description": "Appliquer les gestes de secours pour une brûlure thermique ou chimique.",
+      "parameters": [
+        {
+          "name": "type_brule",
+          "type": "string",
+          "description": "Le type de brûlure (thermique, chimique)"
+        },
+        {
+          "name": "surface_touchee",
+          "type": "number",
+          "description": "La surface de la peau touchée par la brûlure en centimètres carrés"
+        }
+      ]
+    },
+    {
+      "name": "assistance_traumatisme_os_articulations",
+      "description": "Immobiliser un membre blessé en cas de fracture ou entorse.",
+      "parameters": [
+        {
+          "name": "zone_corporelle",
+          "type": "string",
+          "description": "La zone du corps où se trouve la blessure (bras, jambe, etc.)"
+        },
+        {
+          "name": "type_trauma",
+          "type": "string",
+          "description": "Le type de traumatisme (fracture, entorse, etc.)"
+        }
+      ]
+    },
+    {
+      "name": "assistance_position_laterale_securite",
+      "description": "Placer une personne inconsciente en position latérale de sécurité (PLS).",
+      "parameters": [
+        {
+          "name": "respiration_normale",
+          "type": "boolean",
+          "description": "Indique si la personne respire normalement"
+        }
+      ]
+    },
+    {
+      "name": "assistance_utilisation_defibrillateur",
+      "description": "Utiliser un défibrillateur automatisé externe (DAE) en cas d'arrêt cardiaque.",
+      "parameters": [
+        {
+          "name": "âge",
+          "type": "number",
+          "description": "L'âge de la personne à secourir"
+        },
+        {
+          "name": "type_defibrillateur",
+          "type": "string",
+          "description": "Le type de défibrillateur (DAE, manuel)"
+        }
+      ]
+    },
+    {
+      "name": "ask_for_more_information",
+      "description": "Demande des précisions à l'utilisateur.",
+      "parameters": [
+        {
+          "name": "question",
+          "type": "string",
+          "description": "La question à poser à l'utilisateur"
+        }
+      ]
+    }
+  ]
+}

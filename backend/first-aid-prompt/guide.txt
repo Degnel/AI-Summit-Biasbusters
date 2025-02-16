@@ -1,0 +1,1244 @@
+GUIDE pra$que
+Document technique à l’usage des formateurs
+Collec/on du centre municipal de forma/on aux techniques de premiers secours
+   PREMIERS SECOURS
+ PSC 1
+       
+ 
+ GUIDE pratique PREMIERS SECOURS
+1
+2
+3
+5
+9
+13
+15
+17
+25
+31
+39
+55
+59
+63
+67
+69
+   SOMMAIRE
+Glossaire Avant-propos Premiers secours Protection Examen
+Alerte
+Obstruction des voies aériennes par corps étranger Hémorragie externe
+Perte de connaissance
+Arrêt cardiaque
+Malaise
+Plaie
+Brûlure
+Traumatisme des os et des articulations
+Schéma général de l’action de secours
+© Daniel MEYRAN, BMPM, 2012 Mail : daniel.meyran@me.com
+
+2
+GLOSSAIRE
+BMPM : Bataillon de marins pompiers CAT : conduite à tenir
+CRF : Croix-Rouge française
+DAE : défibrillateur automatisé externe GT : Geste technique
+LVA : libération des voies aériennes
+PLS : position latérale de sécurité
+PSC : Prévention et premier secours civique RCP : réanimation cardio-pulmonaire SAMU : Service d’aide médicale urgente SNA : Signal national d’alerte
+UE : Union Européenne
+VA : voies aériennes
+ GUIDE pratique PREMIERS SECOURS
+   
+ GUIDE pratique 3 PREMIERS SECOURS
+   AVANT-PROPOS
+Nous vivons dans un monde où les sources de risques, de dangers et de menaces sont multiples et variées, tant au quotidien que lors d’évènements exceptionnels. Même s’il existe de la part du citoyen, une grande et légitime exigence en termes de sécurité, ce dernier ne peut se cantonner à l’attente des secours en cas d’accident. Il doit être l’auteur de sa propre sécurité et de celle de tous ceux qui lui sont proches.
+C’est pourquoi la Sécurité Civile a bâti son nouveau système structurel et organisationnel en mettant le citoyen au centre du dispositif, avec la parution de la loi n° 2004-811 du 13 août 2004 dite « de modernisation de la sécurité civile ».
+A travers cette nouvelle législation et en arguant que la « sécurité civile est l’affaire de tous », l’Etat entend apporter une réponse adaptée à la multiplication des accidents, catastrophes et sinistres. De ce fait, le citoyen est le premier acteur de sa propre sécurité et, par voie de conséquence, de celle des autres.
+Conformément à l’arrêté du 16 novembre 2011 fixant le référentiel national de compétences de sécurité civile relatif à l’unité d’enseignement « prévention et secours civiques de niveau 1 » et fort de son expérience, le Bataillon de Marins- Pompiers de Marseille a élaboré une formation complète à cette unité d’enseignement pour permettre au participants d’acquérir les compétences face aux accidents « de tous les jours ».
+Le contenu de cette formation est en accord avec les recommandations de l’Observatoire national du secourisme et permet donc la délivrance de l’attestation de formation au PSC1.
+Ce guide est un document technique auquel le formateur se réfèrera tant dans la préparation que lors du déroulement des sessions de formation. Il s’accompagne d’un guide pédagogique qui permettra aux formateurs d’assurer un déroulé harmonieux de la formation globale qui se déroulera en 7 heures minimum.
+Merci à chaque formateur d’être l’un des maillons de cette grande orientation stratégique nationale en matière d’éducation du grand public et du monde du travail.
+
+4
+GUIDE pratique PREMIERS SECOURS
+    
+ PREMIERS SECOURS
+Situation
+La situation nécessite une action de premiers secours (fig. 1).
+Objectif
+Identifier les principes généraux du premier secours face à une situation d’urgence.
+Définition
+GUIDE pratique PREMIERS SECOURS
+5
+     Figure 1 : La situation nécessite une action de premiers secours
+Le premier secours consiste à délivrer une aide
+immédiate, quelle que soit sa forme à toute
+personne malade ou victime d’un traumatisme,
+dans l’attente de l’arrivée d’un professionnel. Le
+premier secours ne concerne pas uniquement les
+soins donnés à une personne qui présente une lésion ou des signes de maladie mais aussi toutes les autres actions, y compris le soutien psychologique, que l’on peut apporter à une personne qui présente un stress émotionnel parce qu’elle a été victime ou témoin d’un événement traumatisant.
+Principes
+Principes généraux
+Faire face au stress
+ Lorsque un témoin ou une personne doit porter secours à une victime en détresse, il est normal que ce sauveteur subisse un stress émotionnel. Pour conserver son calme, il doit prendre du recul par rapport à la situation. Il ne doit pas agir à la hâte et ne doit pas non plus se mettre en danger.
+Il n’est pas rare que les sauveteurs rencontrent des difficultés à se remettre d’une intervention effectuée en situation d’urgence.
+Dans ce cas, il est important qu’ils puissent en parler à leurs amis, à leurs familles, aux membres de leur entourage mais aussi à d’autres sauveteurs.
+Si les difficultés persistent ou si des troubles apparaissent (difficultés à dormir, à se concentrer) le sauveteur ne doit pas hésiter à faire appel à un médecin.
+Éviter toute contamination
+En cas de plaie ou autre, il est primordial de réduire au maximum le risque de transmission d’infection.
+Pour ce faire, veillez à ne pas entrer en contact avec le sang ou un autre fluide corporel de la victime. Protégez vos mains avec des gants à usage unique ou, à défaut, des sacs en plastique et soyez vigilant si vous devez manipuler des objets coupants.
+ 
+6
+Si possible, lavez-vous les mains à l’eau et au savon liquide avant et après avoir administré les premiers secours.
+La technique de réanimation par ventilation artificielle (bouche-à-bouche) présente des risques extrêmement faibles de contamination pour le sauveteur.
+Etapes du premier secours
+Devant une victime, l’action du premier témoin formé aux premiers secours se déroule en 4 étapes (fig. 2).
+Sécuriser le lieu de l’accident et les personnes impliquées (Protéger)
+Devant une situation d’urgence, le sauveteur
+doit assurer la sécurité de la victime ou de toute autre personne en attendant l’arrivée des secours. Pour cela, il doit écarter ou supprimer, de quelque manière que ce soit, tout danger qui la ou les menace.
+Cette action est un préalable à la poursuite du premiers secours. Toutefois elle doit être réalisée qu’à condition que le sauveteur puisse assurer sa propre sécurité pendant cette action.
+Cette étape est développée dans le chapitre suivant : Protection.
+Examiner la victime pour apprécier son état (Examiner)
+Devant une victime, le sauveteur doit :
+- Se présenter et expliquer à la victime ce qu’il va faire afin de la rassurer.
+- Vérifier dans un premiers temps qu’elle est consciente et respire normalement, le pronostic vital étant souvent en jeu en cas d’altération de la conscience ou de la respiration.
+- Demander à la victime et/ou à son entourage ce qui lui est arrivé et ce qu’elle ressent.
+- Les gestes d’examen sont détaillés dans les chapitres suivants qui abordent les gestes de premier secours.
+Demander de l’aide (Alerter)
+Si le sauveteur a besoin d’aide, il doit alors alerter les secours, c’est à dire informer un service d’urgence de la présence d’une ou plusieurs victimes affectées par une ou plusieurs détresses et stipuler la nature de l’assistance qui leur est apportée.
+Le chapitre qui porte sur l’alerte précise comment alerter les secours et les différents services de secours disponibles. Effectuer les gestes de premiers secours (Secourir)
+Le sauveteur doit réaliser les gestes de premiers secours nécessaires pour améliorer l’état de la victime, limiter son aggravation ou permettre sa survie, dans l’attente de l’arrivée des secours ou de l’assistance d’une personne plus qualifiée.
+Le sauveteur doit être capable de réaliser les gestes de secours nécessaires dans les situations suivantes :
+- La victime s’étouffe (Obstruction des voies aériennes par un corps étranger),
+- La victime saigne (Hémorragie externe),
+- La victime ne parle pas, ne répond pas et respire normalement (perte de connaissance),
+- La victime ne parle pas, ne répond pas et ne respire plus ou respire de façon anormale (arrêt cardiaque),
+- La victime consciente ne se sent pas bien (Malaise),
+ GUIDE pratique PREMIERS SECOURS
+     Figure 2 : Les 4 étapes du premiers secours
+     
+ - La victime présente une plaie (Plaie),
+- La victime présente une brûlure (Brûlure),
+- La victime se plaint après un traumatisme (Traumatisme des os et articulations).
+- La réalisation de ces gestes ne nécessite aucun matériel particulier, si ce n’est le matériel courant et non spécifique que le sauveteur peut trouver à proximité. Seule la réalisation d’une défibrillation cardiaque nécessite un défibrillateur automatisé externe qui peut être à disposition dans certains établissement recevant du public, sur les lieux du travail ou sur la voie publique.
+- Certains gestes de secours particuliers, comme la mise en position latérale de sécurité, le massage cardiaque ou l’installation d’une victime en position d’attente, sont essentiels et peuvent non seulement améliorer le pronostic de la victime, mais aussi assurer sa survie.
+Les gestes de secours doivent être dispensés de façon calme et non précipitée.
+Un schéma général de l’action de secours qui reprend l’ensemble des conduites à tenir devant une victime est proposé à la fin de ce guide.
+Pour les différentes conduites à tenir et techniques de secours qui sont décrites dans ce guide, la définition des âges est la suivante :
+Ces âges sont basés sur les causes de l’arrêt cardiaque et la différence des conduites à tenir et des techniques de secours qui en découlent.
+GUIDE pratique 7 PREMIERS SECOURS
+    Définition des âges Nourrisson : 0 à 1 an Enfant : 1 an à 8 ans Adulte : à partir de l’âge de 8 ans
+ 
+8
+GUIDE pratique PREMIERS SECOURS
+    
+ GUIDE pratique PREMIERS SECOURS
+9
+   PROTECTION
+Situation
+La victime est exposée à un danger (fig. 3).
+Objectif
+Assurer la sécurité de la victime ou de toute autre personne en attendant l’arrivée des secours.
+Définition
+Protéger une victime ou une personne consiste à
+  Figure 3 : La victime est exposée à un danger
+écarter ou supprimer, de quelque manière que se
+soit et de façon permanente, tout danger qui la ou
+les menace. La protection est un préalable à toute action de secours. Toutefois elle doit être réalisée qu’à condition que le sauveteur puisse assurer sa propre sécurité pendant cette action.
+Conduite à tenir
+Reconnaître les dangers
+Effectuer une approche prudente de la zone de l’accident.
+En restant à distance de la victime, regarder tout autour d’elle :
+- évaluer la présence de dangers qui peuvent menacer le sauveteur et/ou la victime,
+- repérer d’autres personnes qui pourraient être exposées aux dangers identifiés.
+Protéger
+Si le sauveteur peut agir sans risque pour sa propre sécurité il doit supprimer immédiatement et de façon permanente les dangers environnants, il doit donc par exemple couper le courant, fermer le gaz ou baliser une zone d’accident (fig. 4).
+Si nécessaire, compléter cette première mesure en délimitant clairement et largement la zone de danger, de façon visible, afin d’éviter toute intrusion dans la zone. Cette délimitation se fait en utilisant tous les moyens matériels à disposition et en sollicitant éventuellement le concours des personnes aptes aux alentours.
+Dégager d’urgence la victime de la zone de danger en toute sécurité
+Devant l’impossibilité de supprimer le danger et si la victime est incapable de s’y soustraire elle même, dégager rapidement la victime à condition qu’elle soit visible, facile à atteindre et qu’aucune entrave ne l’immobilise ou gêne son dégagement.
+
+10 GUIDE pratique PREMIERS SECOURS
+Pour cela :
+- s’engager par le cheminement le plus sûr et le plus rapide,
+- saisir solidement la victime par les poignets, les chevilles ou à défaut par un vêtement résistant,
+- tirer la victime au sol, quelle que soit sa position, vers un endroit suffisamment éloigné du danger et de ses conséquences.
+- Se faire aider éventuellement par une autre personne.
+Le dégagement d’urgence est une manœuvre exceptionnelle qui ne doit être utilisée que pour soustraire une victime à un danger vital, réel, immédiat et non contrôlable.
+Devant l’impossibilité de supprimer le danger ou de dégager la victime
+Alerter ou faire alerter les secours spécialisés.
+Assurer une surveillance permanente de la zone de danger pour empêcher toute personne d’y pénétrer jusqu'à l’arrivée des secours publics.
+Protection en cas d’alerte aux populations
+Les signaux d’alerte à la population
+L’alerte aux populations est une mesure exceptionnelle dont l’efficacité repose sur une connaissance préalable des risques particuliers auxquels les populations s’exposent.
+L’alerte des populations consiste à diffuser un signal destiné à avertir les individus d'un danger imminent ou d’un évènement grave en train de produire ses effets et susceptible de porter atteinte à leur intégrité physique.
+Le signal national d’alerte (SNA) est émis par des sirènes. Il se compose de deux codes distincts (fig. 5) :
+- le signal de début d'alerte : il consiste en trois cycles successifs d’une durée de 1 minute et 41 secondes chacune et séparés par un intervalle de cinq secondes, d’un son modulé (montant et descendant) ;
+- le signal de fin d'alerte : il consiste à un son continu d’une durée de 30 secondes.
+La diffusion de ces signaux repose sur un réseau d’environ 3.800 sirènes permettant, de jour comme de nuit, d'attirer
+rapidement l'attention des populations pour les appeler à réagir.
+Des essais de ce réseau se déroulent le premier mercredi de chaque mois, à midi. Ils permettent à la population d’être capable d’identifier clairement le signal. Lors de ces essais mensuels, le signal émis est une variation sur un cycle restreint de 30 secondes, pour ne pas être confondu avec le SNA.
+Par ailleurs, lorsqu’il existe des risques particuliers (chimique, radioactif) et afin de prévenir les populations concernées, des systèmes d’alerte adaptés sont mis en place afin de pouvoir diffuser un SNA.
+Le déclenchement d’un SNA permet une information immédiate de la population et l’avertit qu’une mise à l’abri et qu’un confinement doivent être effectués.
+Pour s’assurer de la bonne diffusion de ces messages d’information, une convention de partenariat a été signée entre le Ministère de l’Intérieur, Radio France et France Télévisions. Les messages diffusés visent à informer les populations sur la nature de l’événement et à délivrer des consignes de comportement précises à suivre impérativement.
+      Figure 4 : baliser la zone d’accident
+
+ GUIDE pratique 11 PREMIERS SECOURS
+Seuls les dispositifs d’alerte propres aux aménagements hydrauliques émettent un signal distinct en cas de danger (corne de brume). Il s’agit alors d’un signal d’évacuation.
+Figure 5 : Signal national d'alerte
+Conduite à tenir
+Dès le déclenchement du signal national d’alerte et jusqu’au signal de fin d’alerte :  Se mettre à l’abri, de préférence dans un local clos ;
+Se confiner :
+ Pour se confiner, il convient de :
+- fermer les portes et fenêtres,
+- calfeutrer les portes, les fenêtres et les bouches d’aération,
+- arrêter les systèmes de ventilation ou de climatisation.
+ S’informer sur la situation en écoutant la radio ou en regardant la télévision. Pour s’informer, il convient :
+- d’écouter la radio sur une des stations du réseau de Radio France,
+- de regarder la télévision sur une des chaînes du réseau de France Télévisions.  Aider les personnes en difficultés (personnes âgées, handicapées)
+ S’assurer que l’entourage a reçu et exécute les consignes
+    
+12 GUIDE pratique PREMIERS SECOURS
+    
+ GUIDE pratique 13 PREMIERS SECOURS
+   EXAMEN
+Situation
+Le sauveteur se trouve en présence d’une victime, la protection est assurée (fig. 6).
+Objectif
+Examiner une victime afin d’apprécier la gravité de son état et la nature des gestes de premiers secours à réaliser.
+Définition
+Examiner une victime est l’action qui consiste à
+collecter des informations sur son état de santé pour
+mettre en œuvre les gestes de premiers secours
+adaptés et transmettre les informations nécessaires aux secours spécialisés.
+Conduite à tenir
+Observer
+  Figure 6 : Le sauveteur est en présence d’une victime, la protection est assurée
+Tout en s’approchant de la victime, le sauveteur doit la regarder de la tête aux pieds. Il identifie ainsi un certain nombre d’informations comme :
+- le sexe (homme, femme)
+- l’âge apparent (adulte, enfant, nourrisson)
+- les signes évidents comme : la victime est inerte (ne bouge apparemment pas) ou crie, la victime ouvre les yeux, la victime saigne ou présente une plaie qui ne saigne pas (fig. 7),
+- Le sexe et l’âge apparent d’une victime sont le plus souvent des informations importantes à fournir au service de secours lors de l’alerte.
+- Certains signes évidents et visibles à l’observation de la victime nécessiteront la mise en œuvre de gestes de secours immédiats (désobstruction des voies aériennes, arrêt d’une hémorragie).
+Parler
+Demander à la victime « Vous m’entendez ? Comment ça va ? »
+En cas de non réponse le sauveteur demandera à la victime « Serrez moi la main, ouvrez les yeux. ».
+Pour un nourrisson (moins de 1 an), faire du bruit par exemple en tapant des deux mains puis en le stimulant au niveau des mains.
+Une victime qui parle, donne le plus souvent spontanément des informations sur ce qui lui est arrivé et sur son état.
+
+14 GUIDE pratique PREMIERS SECOURS
+Cette étape permet de rapidement savoir si la victime répond ou pas quand on l’interpelle et si elle peut réaliser un ordre simple comme celui d’ouvrir les yeux et de serrer la main. En effet, une victime peut ne pas répondre mais être en mesure de nous entendre et d’exécuter un ordre simple.
+Poser des questions
+Si la victime peut parler, lui poser des questions :
+- que s’est-il passé ?
+- de quoi vous plaignez-vous ?
+- avez-vous mal ? où ?
+Ces questions permettent de préciser des informations sur son état.
+Elle peut se plaindre de sensations pénibles, avoir mal, présenter des nausées, des vertiges, se plaindre de brûlures.
+Ces informations peuvent aboutir à la réalisation de gestes de secours spécifiques (pansements, arrosage de brûlure, immobilisation) et permettent surtout d’informer correctement les secours.
+      Figure 7 : Le sauveteur examine la victime
+ Apporter un soutien psychologique
+Le sauveteur doit se présenter à la victime dans une attitude bienveillante et sans idée préconçue. Il doit lui expliquer ce qui est arrivé et ce qui va se passer.
+Dans tous les cas, il doit écouter la victime, la réconforter et lui demander de coopérer. Cette attitude concourt à l’efficacité des gestes de premiers secours éventuels.
+
+ GUIDE pratique 15 PREMIERS SECOURS
+   ALERTE
+Situation
+La situation nécessite le recours à un service de secours d’urgence.
+Objectif
+Transmettre au service de secours d’urgence les informations nécessaires à son intervention.
+Définition
+L’alerte est l’action qui consiste à informer un service d’urgence de la présence d’une ou plusieurs victimes affectées par une ou plusieurs détresses et à préciser la nature de l’assistance qui leur est apportée.
+Justification
+L’absence d’information d’un service d’urgence peut compromettre la vie ou la santé d’une victime malgré les premiers secours assurés par un sauveteur. L’alerte des secours est donc essentielle.
+En France, les secours et les soins sont organisés sous la forme d’une chaîne de secours (fig. 8) dont les maillons sont intimement liés. En alertant un service d’urgence, le sauveteur initie cette chaine des secours.
+La chaîne des secours ne peut fonctionner sans son premier maillon, à savoir le témoin qui protège et qui donne l’alerte.
+Conduite à tenir
+L’alerte, transmise au service d’urgence doit être rapide et précise pour diminuer les délais de mise en œuvre de la chaîne de secours. Elle est réalisée par le sauveteur ou un témoin à qui l’on donne des consignes pour alerter.
+Décider d’alerter les secours
+L’alerte des secours est nécessaire dès lors que la situation présente des risques ou qu’une vie semble en danger. Elle doit être réalisée après une évaluation rapide de la situation et des risques et une éventuelle mise en sécurité des personnes.
+  Figure 8 : La chaîne des secours
+
+16 GUIDE pratique PREMIERS SECOURS
+Se munir d’un moyen de communication adapté
+L’alerte des secours est réalisée par les moyens les plus appropriés disponibles comme un téléphone fixe ou portable, une borne d’appel ou une cabine téléphonique.
+Contacter le service d’urgence en utilisant un numéro d’appel gratuit (fig. 9).
+Le 15, numéro d’appel des SAMU, en charge des problèmes urgents de santé (malaise, maladie) et du conseil médical.
+Le 18, numéro d’appel des sapeurs-pompiers, en charge notamment des secours d’urgence aux personnes, des secours sur accidents et des incendies.
+Le 112, numéro d’appel unique pour l’ensemble des services de secours (interconnexion) afin de permettre un gain de temps dans la transmission des informations. Ce numéro ne se substitue pas aux autres numéros d’urgence, mais présente l’avantage d’être commun à l’ensemble du territoire de l’Union Européenne.
+Ces services sont interconnectés.
+Transmettre les informations et répondre aux questions posées
+L’appelant doit pouvoir décrire la situation et au minimum donner les indications suivantes :
+- le numéro d’appel ou de la borne d’où il appelle (si nécessaire, donner son nom),
+- la nature du problème, maladie, accident,
+- la localisation la plus précise possible de l’événement.
+Un dialogue peut s’instaurer entre l’appelant et les services d’urgence. Plusieurs questions peuvent être posées concernant :
+- le nombre de victimes et leur état apparent,
+- les gestes de secours déjà effectués,
+- la présence éventuelle de risques persistants: incendie, explosion, effondrement, odeurs suspectes ou tout autre danger.
+Appliquer les consignes données.
+Les secours peuvent conserver l’appelant au téléphone pour le conseiller ou le guider dans l’exécution des gestes de secours jusqu'à leur arrivée.
+Raccrocher sur instruction de l’opérateur
+Lorsque l’alerte est transmise par un témoin, il convient :
+- avant l’alerte, de s’assurer qu’il possède tous les éléments,
+- après l’alerte, de vérifier qu’il a correctement exécuté l’action.
+      Figure 9 : Contacter un service d’urgence
+
+ GUIDE pratique 17 PREMIERS SECOURS
+OBSTRUCTION DES VOIES AERIENNES PAR UN CORPS ETRANGER
+Situation
+La victime s’étouffe, sa respiration est brutalement empêchée ou gênée (fig. 10).
+Objectif
+Identifier la gravité de l’obstruction des voies aériennes (totale ou partielle),
+Réaliser les gestes de secours nécessaires pour obtenir une désobstruction des VA si l’obstruction est totale ou éviter une aggravation si elle est partielle.
+Définition
+L’obstruction des voies aériennes, provoquée généralement par un corps étranger (objet, aliment), engendre une gène ou un empêchement brutal et plus ou mois complet des mouvements de l’air entre l’extérieur et les poumons.
+Causes
+Les corps étrangers qui provoquent le plus souvent une obstruction des voies aériennes sont les aliments (chez l’adulte et l’enfant) ou les jouets ou morceaux de jouet (chez l’enfant).
+Risques
+Les voies aériennes permettent le passage de l’air de l’extérieur vers les poumons et inversement. Une obstruction partielle risque d’évoluer vers une obstruction totale. Une obstruction met en jeu immédiatement la vie de la victime en l’absence de gestes de secours efficaces.
+Signes
+La victime est le plus souvent en train de manger ou, s’il s’agit d’un enfant, en train de jouer avec un objet qu’il a mis en bouche. Brutalement, elle porte les mains à sa gorge (fig. 10).
+     Figure 10 : La victime s'étouffe
+
+18 GUIDE pratique PREMIERS SECOURS
+Deux situations se présentent. 1er cas – La victime :
+- ne peut plus parler, ni crier, ni tousser ou émettre un son,
+- garde la bouche ouverte,
+- porte les mains à son cou.
+Il s’agit d’une obstruction totale. La respiration n’est plus efficace.
+En l’absence de gestes de secours efficaces, la victime s’agite, devient rapidement bleue puis perd connaissance.
+Secondairement un arrêt cardiaque survient.
+2ème cas – La victime
+- parle ou crie (enfant),
+- tousse vigoureusement,
+- respire, parfois avec un bruit surajouté.
+Il s’agit d’une obstruction partielle. La respiration est encore efficace, il ne faut pas l’aggraver. Principe d’action
+L’action du sauveteur doit permettre de :
+- désobstruer les voies aériennes, si elles sont totalement bouchées,
+- empêcher toute aggravation en cas d’obstruction partielle.
+Conduite à tenir
+L’obstruction est totale
+La victime n’est pas capable d’expulser elle même le corps étranger
+- Donner de 1 à 5 claques vigoureuses dans le dos (GT 1) ;
+- En cas d’inefficacité, réaliser 1 à 5 compressions :
+o au niveau de l’abdomen s’il s’agit d’un adulte ou d’un enfant (GT 2),
+o au niveau du thorax s’il s’agit d’un nourrisson (GT 3), d’un adulte obèse ou d’une femme dans les derniers mois de sa grossesse (GT 4).
+- Renouveler des cycles de 5 claques dans le dos suivis de 5 compressions de l’abdomen (adulte, enfant) ou du thorax (nourrisson, adulte obèse, femme enceinte) tant que la victime ne perd pas connaissance et que la désobstruction n’est pas obtenue (fig. 11).
+- Interrompre les manœuvres dès :
+o Le rejet du corps étranger,
+       Figure 11 : Désobstruer les voies aériennes
+  
+ o La reprise de la parole,
+o L’apparition de toux, de cris ou de pleurs, o La reprise d’une respiration normale.
+En cas de perte de connaissance
+- accompagner la victime au sol,
+- faire alerter ou, à défaut, alerter soi-même les secours,
+GUIDE pratique 19 PREMIERS SECOURS
+    - réaliser une réanimation cardio-pulmonaire en débutant systématiquement par les compressions thoraciques, quelque soit l’âge de la victime,
+- vérifier la présence du corps étranger dans la bouche à la fin de chaque cycle de compressions thoraciques. Le retirer prudemment s’il est accessible.
+Les manœuvres sont efficaces
+- Installer la victime dans la position où elle se sent le mieux,
+- Parler régulièrement à la victime et la réconforter,
+- Desserrer ses vêtements si nécessaires,
+- Demander un avis médical et suivre les consignes données,
+- Surveiller la victime.
+L’obstruction est partielle
+La victime est capable d’expulser elle même le corps étranger.
+- Ne pas pratiquer de techniques de désobstruction des voies aériennes car elles peuvent mobiliser le corps étranger, provoquer une obstruction totale et un arrêt de la respiration,
+- Encourager la victime à tousser pour rejeter le corps étranger,
+- Installer la victime dans la position où elle se sent le mieux, le plus souvent assise,
+- Demander un avis médical et appliquer les consignes données,
+- Surveiller attentivement la victime,
+- Si la situation s’aggrave et que la victime ne peut plus parler ou tousser, pratiquer alors les manœuvres de désobstruction comme décrites ci-dessous.
+  
+20 GUIDE pratique PREMIERS SECOURS
+        Geste technique 1
+    Désobstruction par la méthode des claques dans le dos
+   Indications
+Obstruction totale des voies aériennes par un corps étranger chez l’adulte, l’enfant et le nourrisson.
+  Technique
+Chez l’adulte
+- Laisser la victime dans la position où elle se trouve (debout ou assise).
+- Se placer sur le côté et légèrement en arrière de la victime.
+- Soutenir le thorax avec une main.
+- Pencher la victime vers l’avant pour que le corps étranger dégagé sorte de la bouche plutôt que de retourner dans les voies aériennes.
+- Donner de 1 à 5 claques vigoureuses dans le dos, entre les deux omoplates avec le talon de l’autre main ouverte (fig. 12) tant que la désobstruction n’est pas obtenue.
+Chez l’enfant
+- S’asseoir.
+- Basculer l’enfant sur la cuisse du sauveteur, tête vers le bas (fig. 13).
+- Donner 1 à 5 claques vigoureuses dans le dos, entre les deux omoplates avec le talon de l’autre main ouverte tant que la désobstruction n’est pas obtenue.
+- En cas d’impossibilité, réaliser la même technique que pour l’adulte.
+Chez le nourrisson
+- S’asseoir.
+- Coucher le nourrisson face côté terre à califourchon sur l’avant-bras en prenant appuie sur la cuisse.
+- Maintenir la tête avec les doigts de part et d’autre de la bouche sans appuyer sur sa gorge.
+- Incliner le nourrisson afin que la tête soit plus basse que le thorax.
+- Donner 1 à 5 claque dans le dos, entre les 2 omoplates, avec le talon de l’autre main ouverte tant que la désobstruction n’est pas obtenue (fig. 14).
+        Justification
+Permet de provoquer un mouvement de toux qui débloque et expulse un corps étranger qui obstrue les voies aériennes.
+   Points clefs
+Les claques doivent être données :
+- entre les 2 omoplates,
+- avec le talon de la main ouverte,
+- de façon vigoureuse.
+ 
+ GUIDE pratique 21 PREMIERS SECOURS
+       Geste technique 1
+    Désobstruction par la méthode des claques dans le dos
+    Figure 12 : Claques dans le dos (adulte)
+      Figure 13 : Claques dans le dos (enfant) Figure 14 : Claques dans le dos (nourrisson)
+  
+22 GUIDE pratique PREMIERS SECOURS
+        Geste technique 2
+    Désobstruction par la méthode des compressions abdominales
+   Indications
+Obstruction totale des voies aériennes chez l’adulte et l’enfant après une série de 5 claques dans le dos inefficace.
+  Technique
+Après avoir réalisé les 5 claques dans le dos inefficaces ...
+- Se placer derrière la victime, contre son dos.
+- Passer les bras sous les siens de part et d’autre de la partie supérieure de son abdomen.
+- Pencher la victime en avant pour que le corps étranger sorte par la bouche plutôt que de retourner dans les voies aériennes.
+- Mettre le poing sur la partie supérieure de l’abdomen, au creux de l’estomac, au dessus du nombril et en dessous du sternum.
+- Placer l’autre main sur la première, les avant-bras n’appuyant pas sur les côtes (fig. 12).
+- Tirer franchement en exerçant une pression vers l’arrière et vers le haut.
+- Effectuer de 1 à 5 compressions, en relâchant entre chacune et tant que la
+désobstruction n’est pas obtenue.
+Figure 15 : Compressions abdominales (adulte et enfant)
+      Justification
+Comprimer l’air contenu dans les poumons de la victime et expulser le corps étranger par un effet de
+« piston ». Suivant l’importance et la position du corps étranger, plusieurs pressions successives peuvent être nécessaires.
+   Points clefs
+Les compressions abdominales doivent être faites :
+- au creux de l’estomac,
+- sans appuyer sur les côtes,
+- vers l’arrière et vers le haut.
+ 
+ GUIDE pratique 23 PREMIERS SECOURS
+       Geste technique 3
+    Désobstruction par la méthode des compressions thoraciques (nourrisson)
+   Indications
+Obstruction totale des voies aériennes chez le nourrisson, après une série de 5 claques dans le dos inefficaces.
+  Technique
+Après avoir réalisé les 5 claques dans le dos inefficaces ...
+- Retourner le nourrisson sur le dos, face côté ciel, en maintenant fermement son buste entre les 2 avant bras du sauveteur et sa tête entre les 2 mains (fig. 15).
+- Placer l’avant bras sur lequel repose le nourrisson sur la cuisse du sauveteur. La tête du nourrisson doit être plus basse que le reste du corps.
+- Placer la pulpe de 2 doigts d’une main, au milieu de la poitrine, sur la moitié inférieure du sternum.
+- Effectuer de 1 à 5 compressions successives, profondes, en relâchant entre chacune (fig. 16).
+    Justification
+Comprimer l’air contenu dans les poumons de la victime et expulser le corps étranger par un effet de
+« piston ». Suivant l’importance et la position du corps étranger, plusieurs pressions successives peuvent être nécessaires.
+Chez le nourrisson les compressions abdominales ne doivent pas être pratiquées, car elles peuvent entraîner une lésion grave des organes de l’abdomen.
+   Points clefs
+Les 5 compressions thoraciques doivent être :
+- successives,
+- profondes,
+- au milieu de la poitrine.
+       Figure 16 : Retournement du nourrisson Figure 17 : Compressions thoraciques chez le nourrisson
+  
+24 GUIDE pratique PREMIERS SECOURS
+        Geste technique 4
+    Désobstruction par la méthode des compressions thoraciques (adulte obèse et femme enceinte)
+   Indications
+Obstruction totale des voies aériennes chez l’adulte obèse et chez la femme enceinte après une série de 5 claques dans le dos inefficaces.
+  Technique
+- Se positionner derrière la victime.
+- Passer ses avant-bras sous les bras de la victime et encercler sa poitrine.
+- Mettre un poing au milieu du sternum sans appuyer sur la pointe inférieure du sternum (fig. 18 et 19).
+- Placer l’autre main sur la première sans appuyer les avant-bras sur les côtes.
+- Effectuer de 1 à 5 compressions successives franches vers l’arrière, chacune suivie d’un relâchement et tant que la désobstruction n’est pas obtenue.
+    Justification
+Comprimer l’air contenu dans les poumons de la victime et expulser le corps étranger par un effet de
+« piston ». Suivant l’importance et la position du corps étranger, plusieurs pressions successives peuvent être nécessaires.
+Les compressions thoraciques remplacent les compressions abdominales car il est impossible d’encercler le ventre de la victime avec les bras.
+   Points clefs
+Les 5 compressions thoraciques doivent être :
+- au milieu du sternum,
+- sans appuyer sur les côtes,
+- vers l’arrière.
+     Figure 18 : Compressions thoraciques chez l’adulte obèse
+    Figure 19 : Compressions thoraciques chez la femme enceinte
+ 
+ GUIDE pratique 25 PREMIERS SECOURS
+   HEMORRAGIE EXTERNE
+Situation
+La victime présente un saignement abondant visible (fig. 18).
+Objectif
+Réaliser une compression directe de la plaie qui saigne abondamment (hémorragie externe).
+Choisir le geste et/ou la position la plus adaptée pour éviter l’aggravation de l’état d’une victime qui saigne du nez ou bien qui vomit ou crache du sang.
+Définition
+  Figure 20 : La victime saigne abondamment
+Une hémorragie externe est une perte de sang
+abondante, visible et prolongée qui provient d’une plaie ou d’un orifice naturel (hémorragie extériorisée) et qui ne s’arrête pas spontanément.
+Causes
+Une hémorragie peut être le fait d’un traumatisme (coup de couteau, chute) ou d’une maladie (rupture de varices).
+Risques
+La perte abondante ou prolongée de sang conduit à une détresse qui menace immédiatement ou à très court terme la vie d’une victime par diminution importante de la quantité de sang dans l’organisme.
+Le sauveteur peut être infecté par une maladie transmissible s’il présente des effractions cutanées ou en cas de projection sur les muqueuses (bouche, yeux).
+
+26 GUIDE pratique PREMIERS SECOURS
+Signes
+Un saignement est considéré comme abondant s’il imbibe de sang un mouchoir de toile ou de papier en quelques secondes et qu’il ne s’arrête pas spontanément.
+Un saignement dû à une écorchure, une éraflure ou une abrasion cutanée qui s’arrête spontanément n’est pas considéré comme une hémorragie (voir chapitre « plaies »).
+Une hémorragie doit aussi être recherchée sur un blessé car elle peut être temporairement masquée par la position de la victime ou un vêtement absorbant (manteau, blouson). Dans ce cas, il est nécessaire d’écarter les vêtements pour la voir.
+Principes d’action
+Le sauveteur doit arrêter ou limiter la perte de sang de la victime et retarder l’installation d’une détresse qui peut entraîner la mort.
+Conduite à tenir
+Toute hémorragie nécessite une action de secours immédiate, rapide et efficace.
+Saignement abondant au travers d’une plaie
+- Constater l’hémorragie, si nécessaire en écartant les vêtements.
+- Comprimer immédiatement et fortement l’endroit qui saigne quel que soit le lieu de la plaie jusqu’à l’arrivée des secours (GT 5). Si la plaie se situe sur un membre, il n’est pas nécessaire de le surélever.
+- Allonger la victime en position horizontale. Cette position retarde l’installation d’une détresse liée à la perte importante de sang (fig. 19).
+- Faire alerter les secours si un témoin est présent.
+- En l’absence de témoins, alerter les secours après avoir relayé la compression par :
+o un pansement compressif, dans la mesure du possible (GT 5),
+o la main de la victime elle même si le pansement compressif n’est pas réalisable et si la victime peut réaliser elle même cette compression.
+- S’assurer que le sang ne coule plus sans relâcher la compression.
+- Si le saignement se poursuit, reprendre la compression manuelle, par dessus l’éventuel pansement compressif.
+- Réconforter la victime en attendant les secours, en lui parlant régulièrement et en lui expliquant ce qui se passe.
+- Protéger la victime contre le froid, la chaleur et/ou les intempéries.
+      Figure 21 : Comprimer la plaie qui saigne
+
+ GUIDE pratique 27 PREMIERS SECOURS
+- Surveiller l’apparition de signes d’aggravation comme des sueurs abondantes, la sensation de froid ou une pâleur intense.
+En cas d’aggravation :
+- contacter à nouveau les secours pour signaler cette aggravation,
+- pratiquer les gestes qui s’imposent si la victime perd connaissance ou présente un arrêt cardiaque.
+La victime vomit ou crache du sang
+On voit le sang sortir par la bouche de la victime (vomissements ou crachats). Il s’agit souvent d’un signe pouvant traduire une maladie grave nécessitant une prise en charge médicale. Il faut :
+- Installer la victime dans la position où elle se sent le mieux si elle est consciente, allongée sur le côté si elle est inconsciente,
+- Alerter immédiatement les secours,
+- Appliquer les consignes données par le médecin,
+- Conserver les vomissements ou les crachats, si possible, pour les donner au service de secours,
+- Surveiller en permanence et réconforter la victime en lui parlant.
+En cas d’aggravation :
+- recontacter les services de secours pour signaler l’aggravation,
+- pratiquer les gestes qui s’imposent si la victime devient inconsciente.
+La victime saigne du nez
+On voit le sang sortir par le nez de la victime.
+Le saignement est spontané ou provoqué par un choc sur le nez. Dans ce cas, le sauveteur doit :
+- Faire asseoir la victime, tête penchée en avant pour éviter qu’elle avale son sang (ne pas l’allonger),
+- Lui demander de se moucher vigoureusement pour vider complètement les narines,
+- Lui demander de se comprimer les narines entre le pouce et l’index, pendant 10 minutes, sans relâcher la compression pour faciliter la formation d’un caillot qui arrêtera le saignement,
+- Demander un avis médical si le saignement de nez survient après une chute ou un coup, ne s’arrête pas ou se reproduit ou si la victime prend des médicaments qui augmentent les saignements.
+La victime perd du sang d’un autre orifice naturel
+Devant une perte de sang inhabituelle par un orifice naturel :
+- Allonger la victime,
+- Demander un avis médical,
+- Appliquer les consignes données,
+- Surveiller la victime.
+     
+28 GUIDE pratique PREMIERS SECOURS
+     Contact avec le sang d’une victime
+Des maladies peuvent être transmises par le sang.
+Si le sauveteur risque d’entrer en contact avec le sang de la victime, il doit si possible : - se protéger par le port de gants,
+- à défaut glisser sa main dans un sac plastique imperméable.
+Si le sauveteur entre en contact avec le sang d’une victime alors qu’il n’a prit aucune mesure de protection il doit : - ne pas porter les mains à la bouche, au nez ou aux yeux,
+- ne pas manger avant de s’être lavé les mains et s’être changé,
+- retirer les vêtements souillés de sang le plus tôt possible après la fin de l’action de secours,
+- se laver les mains ou toute zone souillée par le sang de la victime, - se désinfecter (gel hydro-alcoolique, dakin),
+- demander un avis médical sans délais si le sauveteur :
+o présente une plaie même minime, ayant été souillée, o a subi une projection de sang sur le visage.
+
+ GUIDE pratique 29 PREMIERS SECOURS
+     Geste technique 5
+   Compression locale
+   Indications
+Devant toute plaie qui saigne abondamment.
+  Technique
+Compression avec la main
+- Appuyer fortement sur l’endroit qui saigne avec les doigts ou la paume de la main, en interposant une épaisseur de tissu propre recouvrant complètement la plaie (mouchoirs, torchons, vêtements) (fig. 20).
+- En l’absence de tissu, appuyer directement avec la main.
+- Maintenir la compression jusqu’à l’arrivée des secours.
+Pansement compressif
+Si le sauveteur doit se libérer (alerte, recherche de matériel) afin d’éviter la reprise de l’hémorragie remplacer la compression manuelle par un bandage serré réalisé avec une bande élastique qui permet de maintenir une pression suffisante ou à défaut un lien large (tissu) assez long (fig. 21).
+Le remplacement de cette compression est impossible lorsque l’endroit qui saigne est situé au niveau du cou, du thorax ou de l’abdomen.
+        Justification
+La compression locale d’une plaie arrête le saignement.
+   Points clefs
+La compression locale doit être :
+- suffisante pour arrêter le saignement,
+- permanente.
+     Figure 22 : Compression locale avec la main Figure 23 : Compression locale avec un pansement compressif (bande élastique ou tissu)
+  
+30 GUIDE pratique PREMIERS SECOURS
+    
+ GUIDE pratique 31 PREMIERS SECOURS
+   PERTE DE CONNAISSANCE
+Situation
+La victime est inerte, ne répond pas aux questions et respire normalement (fig. 22).
+Objectif
+Identifier une victime qui présente une perte de connaissance.
+Maintenir libres les voies aériennes d’une victime qui a perdu connaissance en attendant l’arrivée des secours d’urgence.
+Définition et signes
+Une victime a perdu connaissance lorsqu’elle ne parle pas, ne réagit pas ou ne bouge pas quand on la sollicite mais respire normalement.
+Causes
+Les causes d’une perte de connaissance peuvent être multiples :
+- traumatiques,
+- médicales,
+- toxiques.
+Risques
+Le risque d’une perte de connaissance est d’évoluer vers l’arrêt respiratoire et circulatoire. En effet, la respiration n’est possible que si les voies aériennes permettent le passage de l’air sans encombre.
+Une personne qui a perdu connaissance et qui est laissée sur le dos, est toujours exposée à des difficultés respiratoires, du fait de l’encombrement ou de l’obstruction des voies aériennes par :
+- des liquides présents dans la gorge (salive, sang, liquide gastrique),
+- la chute de la langue en arrière (fig. 23).
+  Figure 24 : La victime est inerte et respire normalement
+  Figure 25 : Obstruction des voies aériennes par la langue
+
+32 GUIDE pratique PREMIERS SECOURS
+Principe d’action
+Le sauveteur doit assurer la liberté des voies aériennes de la victime et l’écoulement des liquides vers l’extérieur pour lui permettre de continuer de respirer en attendant les secours.
+Conduite à tenir
+Protéger
+S’assurer qu’aucun risque ne menace le sauveteur et les autres témoins. Si nécessaire assurer la protection (voir chapitre « Protection »).
+Examiner pour identifier une perte de connaissance
+Poser une question simple à la victime :
+- « Comment ça va ? » ;
+- « Vous m’entendez ? ».
+Secouer doucement l’épaule de la victime ou lui prendre la main en lui demandant (fig. 24) :
+- « Serrez-moi la main »,
+- « Ouvrez les yeux ».
+La victime ne répond pas et ne réagit pas. Appeler « à l’aide », si vous êtes seul
+Cette action permet d’obtenir une aide de la part d’un témoin qui pourra alerter les secours.
+Allonger la victime sur le dos (si elle ne l’est pas déjà).
+Assurer immédiatement la liberté des voies aériennes (GT 6).
+La bascule de la tête en arrière et l’élévation du
+menton entraînent la langue qui, en se décollant du fond de la gorge, permet le passage de l’air.
+       Figure 26 : Identifier une perte de connaissance
+     Apprécier la respiration pendant 10 secondes au plus, tout en gardant le menton élevé.
+Se pencher sur la victime, l’oreille et la joue du sauveteur au-dessus de sa bouche et de son nez, tout en gardant le menton élevé (fig. 25). Rechercher:
+- avec la joue, le flux d’air expiré par le nez et la bouche,
+- avec l’oreille, les bruits normaux ou anormaux provoqués par la respiration (sifflement, ronflement, gargouillement),
+- avec les yeux, le soulèvement du ventre et/ou de la poitrine.
+La poitrine se soulève, le souffle de la victime est perçu, la victime respire normalement.
+   Figure 27 : Apprécier la respiration
+
+ GUIDE pratique 33 PREMIERS SECOURS
+Une victime qui ne répond pas et ne réagit pas quand on la sollicite mais qui respire normalement a perdu connaissance.
+Placer la victime en position stable sur le côté (GT 7)
+La position latérale de sécurité (PLS) est une position stable qui permet l’écoulement des liquides vers l’extérieur et évite que la langue ne rechute dans le fond de la gorge (fig. 26).
+Faire alerter ou alerter les secours
+Si le sauveteur est seul et sans téléphone, après avoir mis la victime en PLS, il quitte la victime pour alerter les secours le plus rapidement possible,
+Si le sauveteur n’est pas seul, il s’assure à ce moment, de l’alerte donnée par le témoin.
+Protéger la victime contre le froid, la chaleur ou les intempéries
+Surveiller la victime en attendant l’arrivée des secours
+Le sauveteur surveille la respiration. Il regarde le
+ventre et la poitrine se soulever, écoute d’éventuels sons provoqués par sa respiration ou essaie, avec le plat de sa main, de sentir le soulèvement du thorax. Si la respiration s’arrête ou devient anormale, le sauveteur doit replacer rapidement la victime sur le dos et pratiquer les gestes qui s’imposent (voir chapitre « Arrêt cardiaque »).
+     Figure 28 : Installer la victime en PLS
+      
+34 GUIDE pratique PREMIERS SECOURS
+      Geste technique 6
+   Libération des voies aériennes
+   Indications
+Devant toute victime qui ne répond pas et ne réagit pas, avant d’apprécier la respiration.
+  Technique
+Chez l’adulte et l’enfant
+- Placer la paume d'une main sur le front de la victime,
+- Placer 2 ou 3 doigts de l’autre main juste sous la pointe du menton, en prenant appui sur l’os et non dans la partie molle du menton ;
+- Basculer doucement la tête de la victime en arrière en appuyant sur le front et en élevant le menton. On peut éventuellement s’aider du pouce pour saisir le menton (fig. 27).
+Figure 29 : Libération des voies aériennes chez l’adulte et l’enfant
+Chez le nourrisson
+Procéder de la même façon que chez l’adulte et l’enfant mais arrêter la bascule de la tête en arrière dés lors que la face du nourrisson est parallèle au ciel, en position neutre (fig. 28). Une bascule excessive est à éviter car elle entrainerait une obstruction des voies aériennes.
+      Figure 30 : Libération des voies aériennes chez le nourrisson
+   Justification
+La bascule de la tête en arrière (chez l’adulte et l’enfant) ou la mise en position neutre (chez le nourrisson) et l’élévation du menton entraîne la langue qui, en se décollant du fond de la gorge, permet le passage de l’air.
+   Points clefs
+Pour assurer la liberté des voies aériennes :
+- le menton doit être élevé,
+- la tête doit être basculée doucement en arrière et maintenue dans cette position.
+ 
+ GUIDE pratique 35 PREMIERS SECOURS
+     Geste technique 7
+   Position latérale de sécurité
+   Indications
+Devant toute victime qui présente une perte de connaissance qui présente une perte de connaissance (et qui respire normalement).
+  Technique
+Chez l’adulte et l’enfant
+1er temps : Préparer le retournement de la victime
+- Retirer les lunettes de la victime si elle en porte.
+- Rapprocher délicatement ses membres inférieurs côte à côte, dans l’axe du
+corps si nécessaire.
+- Placer le bras de la victime le plus proche du côté du sauveteur, à angle droit de son corps
+- Plier ensuite son coude tout en gardant la paume de sa main tournée vers le haut (fig. 29a). L’alignement des jambes et la position du membre supérieur anticipent la position finale.
+- Se placer à genoux ou en trépied à côté de la victime.
+- Saisir le bras opposé de la victime d’une main et placer le dos de sa main
+contre son oreille, côté sauveteur.
+- Maintenir la main de la victime pressée contre son oreille, paume contre paume (fig. 29b).
+- Attraper la jambe opposée avec l’autre main, juste derrière le genou, la relever tout en gardant le pied au sol (fig. 29c).
+- Se placer assez loin de la victime au niveau du thorax pour pouvoir la tourner sur le côté sans avoir à se reculer.
+2ème temps : Retourner la victime
+- Tourner la victime, sans brusquerie et en un seul temps, en tirant sur la jambe afin de la faire pivoter vers le sauveteur jusqu'à ce que le genou touche le sol (fig. 29d).
+- Maintenir la main sous la joue et l’oreille de la victime pour accompagner le mouvement de la tête et diminuer la flexion de la colonne cervicale lors de la rotation.
+- Dégager doucement la main du sauveteur située sous la tête de la victime, en maintenant le coude de la victime avec la main qui tenait son genou pour ne pas entraîner sa main et éviter la mobilisation de sa tête (fig. 29e).
+- Veiller en retirant votre main à préserver la bascule de la tête en arrière. 3ème temps : Stabiliser la victime
+- Ajuster la jambe située au-dessus de telle sorte que la hanche et le genou soient à angle droit (fig. 29f) pour stabiliser la position.
+- Ouvrir la bouche avec le pouce et l’index d’une main sans mobiliser la tête, afin de permettre l’écoulement des liquides vers l’extérieur.
+Chez le nourrisson
+Placer le nourrisson qui a perdu connaissance (qui respire normalement) sur le côté. Il peut être maintenu dans cette position dans les bras du sauveteur.
+Chez la femme enceinte
+Allonger la femme enceinte en PLS sur le coté gauche pour éviter l’apparition d’une détresse par compression de certains vaisseaux sanguins de l’abdomen.
+        Justification
+En permettant l’écoulement des liquides vers l’extérieur et en évitant que la langue ne chute dans le fond de la gorge, la PLS limite l’encombrement des voies aériennes.
+   Points clefs
+La mise en position latérale de sécurité doit :
+- limiter au maximum les mouvements de la colonne vertébrale,
+- n‘occasionner aucune pression sur la poitrine,
+- aboutir à une position stable, la plus latérale possible,
+- permettre l’écoulement des liquides vers l’extérieur (bouche ouverte).
+ 
+36 GUIDE pratique PREMIERS SECOURS
+      Geste technique 7
+   Position latérale de sécurité
+     Chez le traumatisé
+Devant une victime qui présente une lésion évidente du thorax, du membre supérieur ou du membre inférieur, l’installer en PLS en la retournant autant que possible sur le côté atteint.
+La mise en PLS pourrait aggraver une éventuelle lésion nerveuse chez le traumatisé de la colonne vertébrale, en particulier cervicale. Cependant, le risque d’obstruction des voies aériennes pouvant entraîner un arrêt de la respiration, justifie la mise sur le coté.
+  
+ GUIDE pratique 37 PREMIERS SECOURS
+     Geste technique 7
+   Position latérale de sécurité
+      a - Mise en place du bras
+b – Saisie de la main opposée
+    c - Maintien de la main de la victime et saisie du genou
+d – Retournement de la victime
+    e - Dégagement de la main du sauveteur
+Figure 31 : Mise en PLS
+f – Position finale
+ 
+38 GUIDE pratique PREMIERS SECOURS
+    
+ GUIDE pratique 39 PREMIERS SECOURS
+   ARRET CARDIAQUE
+Situation
+La victime est inerte, ne répond pas aux questions, ne respire pas normalement (fig. 30)
+Objectif
+Identifier une victime (adulte, enfant et nourrisson) en arrêt cardiaque.
+Mettre en œuvre une réanimation cardio-pulmonaire (RCP) et utiliser en toute sécurité un défibrillateur automatisé externe (DAE).
+Définition
+  Figure 32 : La victime est en arrêt cardiaque
+Une personne est en arrêt cardiaque lorsque le
+fonctionnement de son cœur n’est pas efficace. Il peut être totalement arrêté ou fonctionner de façon anarchique.
+Causes
+L’arrêt cardiaque peut être causé par certaines maladies du cœur comme l’infarctus du myocarde. Dans près de 50% des cas, cet arrêt cardiaque soudain, à l’extérieur de l’hôpital, est lié à une anomalie du fonctionnement électrique du cœur (fibrillation ventriculaire).
+D’autres causes d’arrêt cardiaque existent :
+- à la suite d’une obstruction totale des voies aériennes sans manœuvres de désobstruction réalisées ou effectuées sans succès,
+- lors d’une intoxication,
+- après un traumatisme, un accident dû à l’eau (noyade) ou à l’électricité.
+Dans ces cas, l’arrêt cardiaque est en général consécutif au manque d’oxygène.
+Risques
+La vie d’une victime en arrêt cardiaque est menacée à très brève échéance : un apport d’oxygène est indispensable, en particulier au niveau du cerveau et du cœur de la victime, pour assurer sa survie. Au cours d’un arrêt cardiaque, les lésions du cerveau consécutives au manque d’oxygène surviennent dès la première minute.
+L’apport d’oxygène au cerveau et au cœur est réalisé par le rétablissement d’une circulation sanguine artificielle grâce à la RCP. Si elle n’est pas réalisée, la victime décède par manque d’oxygène.
+
+40 GUIDE pratique PREMIERS SECOURS
+Signes
+Une victime en arrêt cardiaque a perdu connaissance (ne parle pas et ne réagit pas à un ordre simple) et :
+- ne respire pas : aucun mouvement de la poitrine ou de l’abdomen n’est visible et aucun bruit ou souffle n’est perçu.
+- ou présente une respiration anormale avec des mouvements respiratoires inefficaces, lents, bruyants et anarchiques encore appelé « gasps ».
+Principe d’action
+Le sauveteur doit réaliser une série d’actions pour augmenter les chances de survie de la victime.
+Alerter de façon précoce les secours
+Devant une victime en arrêt cardiaque, une alerte immédiate au Samu-Centre 15 ou aux pompiers (18) est nécessaire.
+La reconnaissance de signes, qui peuvent apparaître quelques minutes avant la survenue de l’arrêt cardiaque, comme une douleur brutale à la poitrine qui ne disparaît pas rapidement, doit aussi inciter le sauveteur à alerter le Samu- Centre 15 ou les pompiers (18).
+Réaliser une RCP précoce
+Devant un arrêt cardiaque, un sauveteur doit effectuer une RCP pour assurer l’apport d’oxygène au cœur et au cerveau (compressions thoraciques assurant une circulation artificielle) et l’apport d’air aux poumons (ventilation artificielle). La mise en œuvre, par les premiers témoins, d’une RCP précoce dès la constatation de l’arrêt cardiaque, avant l’arrivée des secours et dans l’attente d’un «défibrillateur», augmente considérablement les chances de survie.
+Assurer la mise en œuvre d’une Défibrillation précoce
+Les manœuvres de RCP seules ont une efficacité limitée dans le temps. Si l’arrêt cardiaque est lié à une anomalie du fonctionnement électrique du cœur, l’application d’un choc électrique (encore appelé « défibrillation ») au travers de la poitrine (et donc du cœur de la victime) peut être capable de restaurer une activité cardiaque normale efficace et d’éviter ainsi la mort de la victime. Sans cette action, le cœur s’arrêtera de fonctionner définitivement.
+L’administration d’un choc électrique externe par un sauveteur s’effectue à l’aide d’un DAE capable, à partir d’électrodes placées sur la poitrine de la victime, de détecter une anomalie électrique du cœur et, si nécessaire, d’administrer ou de demander d’administrer un ou plusieurs chocs électriques au travers de ces mêmes électrodes. L’administration de ce choc électrique externe est sans danger pour le sauveteur, qui ne touche pas à la victime. L’association d’une RCP immédiate et d’une défibrillation précoce améliore encore les chances de survie de la victime.
+Favoriser une Prise en charge médicale précoce
+L’arrivée sur place d’une équipe médicale permet de prendre en charge la victime et d’assurer son transport vers un service hospitalier.
+La rapidité de la prise en charge médicale de la victime, après la défibrillation cardiaque, améliore les chances de survie à long terme et diminue les conséquences cérébrales de l’arrêt cardiaque.
+Ces différentes étapes constituent une chaîne de survie susceptible d’augmenter de 4 % à 40 % les chances de survie immédiates de la victime (fig. 31).
+    
+ Conduite à tenir
+La conduite à tenir devant un arrêt cardiaque enseignée au « grand public » est la même chez l’enfant, l’adulte et le nourrisson. Seule la façon de réaliser les gestes de secours diffère selon l’âge.
+Réaliser la protection
+S’assurer qu’aucun risque ne menace le sauveteur et les autres témoins. Si nécessaire assurer la protection (voir chapitre protection).
+Examiner la victime pour identifier une perte de connaissance
+La victime :
+- ne répond pas à une question simple
+« comment ça va ? », «vous m’entendez ?»,
+- ne réagit pas quand on lui demande de serrer la main ou lorsqu’on la secoue doucement au niveau des épaules.
+Figure 33 : La chaine de survie
+GUIDE pratique 41 PREMIERS SECOURS
+     Chaque minute gagnée dans la mise en place d’un DAE peut augmenter de 10% les chances de survie de la victime.
+  Figure 34 : Pratiquer la RCP
+   
+42 GUIDE pratique PREMIERS SECOURS
+Appeler « à l’aide », si vous êtes seul
+Cette action permet d’obtenir une aide de la part d’un témoin qui pourra alerter les secours et apporter un DAE s’il est disponible.
+Mettre la victime sur le dos si c’est nécessaire.
+Assurer immédiatement la liberté des voies aériennes (GT n°6).
+Apprécier la respiration tout en gardant le menton élevé pendant 10 secondes au plus.
+La victime ne respire pas. Aucun souffle n’est perçu, aucun bruit n’est entendu. Ni le ventre, ni la poitrine de la victime ne se soulèvent.
+La victime présente des mouvements respiratoires inefficaces, lents, bruyants et anarchiques (gasps). Ces mouvements peuvent survenir dans les premières minutes qui suivent la survenu d’un arrêt cardiaque. Ils doivent être considéré comme une absence de respiration et ne pas retarder la mise en œuvre de la RCP.
+En cas de doute, le sauveteur agit comme si la respiration était absente donc comme si la victime était en arrêt cardiaque.
+Faire alerter ou alerter les secours et réclamer un DAE.
+En présence d’un témoin, le sauveteur demande à ce témoin d’alerter les secours immédiatement après qu’il ait reconnu l’arrêt cardiaque. Après avoir alerté les secours, le témoin se munit du DAE s’il est disponible et l’apporte au sauveteur.
+En l’absence de témoin, le sauveteur prévient lui-même les secours, de préférence avec son téléphone portable et effectue le plus vite possible le massage cardiaque.
+Si un DAE est à portée de main, le sauveteur le met en œuvre immédiatement.
+Pratiquer une RCP en associant des compressions thoraciques et une ventilation artificielle.
+- Débuter par 30 compressions thoraciques au milieu du thorax (fig. 32) (GT n°8).
+- Après les 30 compressions thoraciques, replacer la tête de la victime en arrière, élever le menton et réaliser 2 insufflations (GT n°9).
+Replacer sans délai les mains au milieu du thorax et réaliser une nouvelle série de 30 compressions thoraciques.
+Continuer ainsi en alternant 30 compressions avec 2 insufflations. Le passage des insufflations aux compressions et des compressions aux insufflations doit être effectué aussi rapidement que possible, sous peine de diminuer l’efficacité de la RCP.
+La fréquence instantanée des compressions thoraciques doit être d’au moins 100/min sans dépasser 120/min. Faire mettre en œuvre le DAE le plus tôt possible et suivre ses indications (GT n°10).
+Dès que le DAE est à proximité de la victime, le sauveteur demande au témoin ou à un deuxième sauveteur de mettre en œuvre le DAE. Afin d’interrompre le moins longtemps possible les compressions thoraciques, la RCP sera poursuivie pendant la mise en place du défibrillateur et ce jusqu’à l’ordre du DAE de ne plus toucher la victime.
+Si le sauveteur est seul avec la victime, il réalisera lui même l’installation du DAE et la défibrillation. Pour cela il est obligé d’interrompre les compressions thoraciques mais la défibrillation prime alors.
+La RCP sera reprise immédiatement après la délivrance d’un choc ou à la demande du DAE. En l’absence de DAE, poursuivre la réanimation.
+Poursuivre la réanimation.
+La réanimation entreprise (RCP + DAE) sera poursuivi jusque :
+- au relais par les services de secours,
+- à la reprise d’une respiration normale par la victime. Dans ce cas, adopter la conduite à tenir devant une victime présentant une perte de connaissance.
+            
+ GUIDE pratique 43 PREMIERS SECOURS
+    Dans tous les cas, si le sauveteur ne peut pas effectuer des insufflations (répulsion, vomissements) ou s’il pense ne pas être efficace, il doit immédiatement réaliser des compressions thoraciques seules.
+
+44 GUIDE pratique PREMIERS SECOURS
+      Geste technique 8
+   Compressions thoraciques
+   Indications
+Devant toute victime en arrêt cardiaque.
+  Technique
+Quel que soit l’âge de la victime :
+- l’installer en position horizontale, sur le dos, de préférence sur une surface rigide,
+- se placer auprès d’elle, le plus souvent à genou,
+- dénuder la poitrine de la victime, dans la mesure du possible.
+Chez l’adulte
+Placer le talon d'une main au centre de la poitrine (fig. 20a), strictement sur la ligne médiane, sur la moitié inférieure du sternum, jamais sur les côtes.
+Placer l’autre main au-dessus de la première, en entrecroisant les doigts des deuxmains.Lasecondemainpeutaussiêtreplacéeàplatsurlapremière, mais en veillant à bien relever les doigts sans les laisser au contact du thorax (fig. 20b).
+Comprimer le thorax de la victime de 5 à 6 cm à une fréquence comprise entre 100 et 120 compressions par min. Pour que l’efficacité des compressions thoraciques soit maximale il faut (fig. 20c) :
+- conserver les bras parfaitement verticaux et les épaules au dessus du sternum de la victime,
+- garder les coudes verrouillés et les bras bien tendus,
+- Assurer un temps de compression égal à celui du relâchement,
+- éviter tout balancement d’avant en arrière du tronc du sauveteur lorsque le thorax est comprimé puis relâché,
+- laisser le thorax reprendre sa forme initiale sans décoller les mains entre chaque compression afin de permettre au cœur de bien se remplir de sang.
+Chez l’enfant
+Placer le «talon» d’une main un travers de doigt au dessus du bas du sternum à la jonction des dernières côtes (appendice xiphoïde).
+Relever les doigts pour ne pas appuyer sur les côtes.
+Comprimer le thorax de l’enfant en l’enfonçant sur le 1/3 de son épaisseur à une fréquence comprise entre 100 et 120 compressions par min. Pour que l’efficacité des compressions thoraciques soit maximale il faut (fig. 21) :
+- conserver le bras parfaitement vertical et l’épaule au dessus du sternum de l’enfant,
+- garder le coude verrouillés et le bras bien tendu,
+- assurer un temps de compression égal à celui du relâchement,
+- éviter tout balancement d’avant en arrière du tronc du sauveteur lorsque le thorax est comprimé puis relâché,
+- laisser le thorax reprendre sa forme initiale sans décoller la main entre chaque compression afin de permettre au cœur de bien se remplir de sang.
+Chez le nourrisson
+Placer la pulpe de deux doigts d’une main dans l’axe du sternum du nourrisson un travers de doigt au dessus d’un repère constitué par la jonction des dernières côtes (appendice xiphoïde) (Fig. 22).
+        Justification
+Les compressions thoraciques permettent d’oxygéner les tissus d’une victime en arrêt cardiaque en rétablissant de manière artificielle la circulation du sang.
+   Points clefs
+Les compressions thoraciques doivent :
+- comprimer fortement le sternum,
+- avoir une fréquence comprise entre 100 et 120 par min.
+ 
+ GUIDE pratique 45 PREMIERS SECOURS
+     Geste technique 8
+   Compressions thoraciques
+     Comprimer régulièrement le sternum du nourrisson en l’enfonçant du 1/3 de son épaisseur à une fréquence comprise entre 100 et 120 compressions par min. Pour que l’efficacité des compressions thoraciques soit maximale il faut :
+- assurer un temps de compression égal à celui du relâchement,
+- laisser le thorax reprendre sa forme initiale sans décoller les doigts entre chaque compression afin de permettre au cœur de bien se remplir de sang.
+ 
+46 GUIDE pratique PREMIERS SECOURS
+      Geste technique 8
+   Compressions thoraciques
+     a – Talon de la main b – Position des mains du sauveteur, doigts crochetés ou mains croisées
+c – Compressions thoraciques chez l’adulte Figure 35 : Compressions thoraciques chez l’adulte
+         Figure 36 : Compressions thoraciques chez l’enfant
+Figure 37 : Compressions thoraciques chez le nourrisson
+  
+ GUIDE pratique 47 PREMIERS SECOURS
+     Geste technique 9
+   Insufflations
+   Indications
+Devant toute victime en arrêt cardiaque
+  Technique
+La victime est installée sur le dos en position horizontale, s’agenouiller ou se placer à côté de la victime, près de son visage.
+Chez l’adulte et l’enfant (bouche-à-bouche)
+- Maintenir la tête de la victime en arrière comme pour la technique de libération des voies aériennes.
+- Pincer le nez de la victime entre le pouce et l’index de la main placés sur le front de la victime pour empêcher toute fuite d’air par le nez lors des insufflations.
+- Ouvrir légèrement la bouche de la victime et maintenir son menton soulevé avec la main placée sous le menton. Pour cela, utiliser « la pince » constituée du pouce (placé sur le menton) et des deux autres doigts (placés immédiatement sous sa pointe).
+- Inspirer sans excès.
+- Appliquer la bouche largement ouverte autour de la bouche de la victime en appuyant fermement pour éviter toute fuite d’air durant les insufflations (fig. 36a).
+- Insuffler progressivement jusqu'à ce que la poitrine de la victime commence à se soulever. La durée de l’insufflation est de 1 seconde environ.
+- Se redresser légèrement afin de reprendre son souffle et de regarder la poitrine de la victime s’affaisser. L’expiration de la victime est passive (fig. 36b).
+- Insuffler une seconde fois après avoir repris une inspiration normale.
+Les deux insufflations doivent être réalisées en moins de 5 secondes pour ne pas
+retarder la reprise des compressions thoraciques.
+Chez le nourrisson
+Maintenir la tête du nourrisson en position neutre avec une main sur le front.
+Ouvrir la bouche du nourrisson et maintenir son menton élevé entre le pouce et l’index de l’autre main.
+Inspirer sans excès.
+Appliquer correctement la bouche ouverte autour de la bouche et du nez de la victime pour éviter toute fuite d’air durant les insufflations (fig. 37).
+Insuffler progressivement jusqu'à ce que la poitrine du nourrisson commence à se soulever. Le volume d’air nécessaire est moindre que celui nécessaire à un enfant et a fortiori qu’à un adulte.
+La durée de l’insufflation est de 1 seconde environ.
+Se redresser légèrement et regarder la poitrine du nourrisson s’affaisser. L’expiration est passive.
+Insuffler une seconde fois.
+Comme pour l’adulte et l’enfant, Les deux insufflations doivent être réalisées en moins de 5 secondes
+       Justification
+Les insufflations permettent d’apporter de l’air aux poumons d’une victime en arrêt cardiaque.
+   Points clefs
+Les 2 insufflations doivent :
+- être lentes et progressives,
+- cesser dès le début de soulèvement de la poitrine,
+- être réalisées en 5 secondes au maximum.
+ 
+48 GUIDE pratique PREMIERS SECOURS
+           Dans tous les cas, si le ventre ou la poitrine de la victime ne se soulève pas lors des insufflations :
+- s’assurer que la tête de la victime est en bonne position et que son menton est élevé ;
+- rechercher la présence d’un corps étranger dans la bouche. Le retirer avec les doigts si nécessaires ;
+- s’assurer qu’il y a une bonne étanchéité et pas de fuite d’air lors de l’insufflation.
+      a – Insufflation
+b - Expiration
+Figure 38 : Bouche-à-bouche (adulte et enfant)
+    Figure 39 : Bouche-à-bouche-et-nez (nourrisson)
+ 
+ GUIDE pratique 49 PREMIERS SECOURS
+     Matériel
+   Défibrillateur automatisé externe
+   Définition
+Le DAE est un appareil capable :
+- d’analyser l’activité électrique du cœur de la victime,
+- de reconnaître une éventuelle anomalie grave du fonctionnement du cœur à l’origine de l’arrêt circulatoire,
+- de délivrer ou d’inviter le sauveteur à délivrer un choc électrique (information vocale et visuelle) afin d’arrêter l’activité anarchique du cœur.
+Localisation des DAE accessibles au public
+Les DAE mis a disposition du public sont de plus en plus nombreux. Ils peuvent être dsponibles :
+- dans les halls d’aéroports et dans les avions des grandes compagnies aériennes,
+- dans les grands magasins, dans les centres commerciaux,
+- dans les halls de gares, dans les trains,
+- dans certains immeubles d’habitation,
+- sur la voie publique,
+- sur les lieux du travail.
+Dans ces cas, les appareils sont parfois placés dans des armoires vitrées murales repérées par un logo facilement identifiable (fig. 38).
+Description du DAE
+Le DAE est composé :
+- d’un haut-parleur qui donne des messages sonores et guide le sauveteur dans son action,
+- d’un métronome qui rythme les compressions thoraciques du sauveteur (en option),
+- d’un accumulateur d’énergie qui permet de réaliser des chocs électriques,
+- éventuellement d’un bouton qui permet d’administrer le choc électrique lorsqu’il est indiqué par l’appareil.
+Le DAE est toujours accompagné d’une paire d’électrodes de défibrillation pré-gélifiées, autocollantes, avec câble intégré (fig. 39). Ces électrodes, à usage unique, sont contenues dans un emballage hermétique. Une seconde paire d’électrodes peut être disponible en cas de défaillance de la première.
+Une fois collées sur la peau du thorax de la victime, les électrodes permettent :
+- de capter et transmettre l’activité électrique cardiaque au défibrillateur,
+- de délivrer le choc électrique lorsqu’il est indiqué.
+Plusieurs accessoires peuvent être joints au DAE dont :
+- une paire de ciseaux pour couper les vêtements et dénuder la poitrine de la victime,
+- des compresses ou du papier absorbant pour sécher la peau de la poitrine de la victime si elle est mouillée ou humide,
+- d’un rasoir jetable pour raser les poils de la victime à l’endroit où l’on colle les électrodes.
+  Figure 40 : Logo d’identification des DAE
+ 
+50 GUIDE pratique PREMIERS SECOURS
+a – avec électrodes adultes b – avec dispositif enfant et nourrisson Figure 41 : Défibrillateur automatisé externe (DAE)
+      Matériel
+   Défibrillateur automatisé externe
+       
+ GUIDE pratique 51 PREMIERS SECOURS
+     Geste technique 10
+   Défibrillation
+   Indications
+Devant toute victime en arrêt cardiaque.
+  Technique
+Chez l’adulte
+Mettre le défibrillateur en fonction (fig. 40a).
+Suivre impérativement les indications vocales et/ou visuelles données par l’appareil. Elles permettent de réaliser les différentes opérations rapidement et en toute sécurité.
+Le DAE demande de mettre en place les électrodes :
+- Enlever ou couper les vêtements recouvrant la poitrine de la victime si nécessaire (fig. 40b),
+- Sécher le thorax de la victime seulement s’il est très humide ou mouillé,
+- Sortir les électrodes « adulte » de leur emballage,
+- Déballer puis appliquer les électrodes, l’une après l’autre, sur la peau du thorax de la victime, à l’endroit indiqué sur le schéma figurant sur les électrodes et/ou leur emballage (fig. 40c),
+- Connecter les électrodes au défibrillateur si nécessaire. Le DAE demande de ne plus toucher la victime :
+- S’assurer que les personnes aux alentours ne touchent pas la victime, car tout mouvement de la victime pendant cette période peut fausser l’analyse (fig. 40d).
+Le DAE annonce que le choc est nécessaire et demande de se tenir à distance de la victime :
+- S’assurer que personne ne touche la victime ; pour cela, le sauveteur annonce à haute voix : « Ecartez- vous ! »,
+- Laisser le DAE déclencher le choc électrique ou appuyer sur le bouton «choc» quand l’appareil le demande (fig. 40e),
+- Reprendre immédiatement les compressions thoraciques après la délivrance du choc. Ne pas retirer les électrodes de défibrillation.
+- Le DAE annonce que le choc n’est pas nécessaire :
+- Reprendre immédiatement les compressions thoraciques. Ne pas retirer les
+électrodes de défibrillation. Chez l’enfant et le nourrisson
+La technique de défibrillation chez l’enfant et le nourrisson diffère de celle de l’adulte sur les points suivants :
+- elle doit être réalisée avec des appareils adaptés (électrodes enfant, réducteur d’énergie). Cependant, si le sauveteur se trouve en présence d’un enfant en arrêt cardiaque et qu’il n’a en sa possession qu’un DAE « adulte », il pourra l’utiliser.
+- Si l’on utilise des électrodes adultes chez l’enfant ou le nourrisson, le sauveteur placera une électrode en avant au milieu du thorax et l’autre au milieu du dos (fig. 43 et 44). Dans tout les autres cas, le placement des électrodes doit rester conforme au schéma du fabriquant.
+        Justification
+La défibrillation permet à un cœur qui fonctionne de manière anarchique de retrouver une activité normale.
+   Matériel
+- Un défibrillateur automatisé externe (DAE)
+- Une paire d’électrodes
+- Accessoires éventuels
+   Points clefs
+- La défibrillation avec un DAE doit être la plus précoce possible,
+- Les compressions thoraciques le moins interrompues possibles.
+ Lorsqu’un deuxième sauveteur ou un témoin arrive sur les lieux avec un DAE, afin d’interrompre le moins longtemps possible les compressions thoraciques, la RCP sera poursuivie pendant son installation. Elle cesse seulement quand le DAE donne l’ordre de ne plus toucher la victime.
+ 
+52 GUIDE pratique PREMIERS SECOURS
+      Geste technique 10
+   Défibrillation
+     a - Mettre en fonction le DAE
+  b - Mettre à nu le thorax de la victime
+    c - Mettre en place les électrodes (adulte)
+    d - Ne pas toucher la victime analyse en cours
+    e - Appuyer sur le bouton choc
+ Figure 42 : La défibrillation chez l’adulte
+ 
+ GUIDE pratique 53 PREMIERS SECOURS
+     Geste technique 10
+   Défibrillation
+     Figure 43 : Mettre en place les électrodes (enfant)
+   Figure 44 : Mettre en place les électrodes (nourrisson)
+   Contraintes
+Si la victime présente un timbre autocollant médicamenteux sur la zone de pose des électrodes, le sauveteur retire le timbre et essuie la zone avant de coller l’électrode.
+Si la victime présente un dispositif médical implantable (stimulateur ou défibrillateur cardiaque) à l’endroit de pose de l’électrode (le plus souvent le sauveteur en est déjà informé ou constate une cicatrice et perçoit un boîtier sous la peau, sous la clavicule droite), le sauveteur colle l’électrode à environ 8 cm sous la bosse perçue soit à 4 travers de doigts.
+Figure 45 : Mettre en place les électrodes sur une victime qui porte une dispositif médical implantable
+  
+54 GUIDE pratique PREMIERS SECOURS
+      Geste technique 10
+   Défibrillation
+   Si la victime est allongée sur un sol mouillé (bord de piscine, pluie), le sauveteur déplace la victime, si possible et si besoin en se faisant aider, pour l’allonger sur une surface sèche avant de débuter la défibrillation.
+Si la victime est allongée à même une surface en métal, si possible et en se faisant aider, le sauveteur déplace la victime ou glisse un tissu sous elle (couverture) avant de débuter la défibrillation.
+Il n’existe pas de danger particulier pour le sauveteur qui réalise une défibrillation sur un sol humide ou métallique, par contre, l’efficacité du choc électrique peut être diminuée.
+Si le DAE détecte un mouvement au cours de l’analyse, le sauveteur doit s’assurer de ne pas toucher la victime au cours de l’analyse. En l’absence de contact avec la victime, il vérifie la respiration de celle-ci.
+Si le DAE demande toujours de connecter les électrodes alors que cette opération a déjà été effectuée, le sauveteur n'interrompt pas les compressions thoraciques et vérifie que les électrodes sont bien collées et le câble est correctement connectées au DAE. Si le problème n’est pas résolu et qu’une seconde paire d’électrodes est disponible il peut remplacer les électrodes.
+ 
+ GUIDE pratique 55 PREMIERS SECOURS
+   MALAISE
+Situation
+La victime est consciente, ne se sent pas bien et présente des signes inhabituels (fig. 41).
+Objectif
+Identifier les signes qui imposent un avis médical immédiat du SAMU-Centre 15 face à une victime qui présente un malaise.
+Définition
+Le malaise est une sensation pénible traduisant un trouble du fonctionnement de l’organisme, sans pouvoir en identifier obligatoirement l’origine. Cette sensation, parfois répétitive, peut être fugace ou durable, de survenue brutale ou progressive.
+Causes
+Le malaise peut avoir diverses origines : maladies, intoxications, allergies...
+Signes
+La victime consciente, ne se sent pas bien et présente des signes inhabituels.
+Risques
+  Figure 46 : La victime présente un malaise
+Certains signes, apparemment sans gravité, peuvent être révélateurs d’une situation pouvant à tout moment entraîner une détresse vitale.
+Principe d’action
+Le sauveteur, après avoir mis la victime au repos, doit recueillir et transmettre les informations afin d’obtenir un avis médical.
+
+56 GUIDE pratique PREMIERS SECOURS
+Conduite à tenir
+Mettre la victime au repos
+Demander à la victime de cesser toute activité.
+Installer la victime en position :
+- allongée, le plus souvent possible (fig. 47),
+- assise si elle a du mal à respirer,
+- sinon dans la position ou elle se sent le mieux.
+Examiner la victime et observer les signes du malaise
+Il s’agit des plaintes de la victime comme :
+- une douleur dans la poitrine,
+- une douleur abdominale intense,
+- une difficulté à respirer ou à parler,
+- une sensation de froid,
+- une perte uni ou bilatérale de la vision,
+- un mal de tête sévère, soudain et inhabituel.
+Il s’agit de manifestations anormales constatées par le sauveteur comme :
+- des sueurs abondantes,
+- une pâleur intense,
+mais aussi l’apparition soudaine d’un ou plusieurs des signes suivants :
+- une faiblesse ou une paralysie d’un membre,
+- une déformation de la face,
+- une difficulté de langage ou de compréhension,
+- une perte d’équilibre, une instabilité de la marche ou des chutes inexpliquées.
+Desserrer les vêtements en cas de gène.
+Se renseigner sur l’état de santé habituel de la victime
+Les renseignements à rechercher, auprès de la victime ou de son entourage sont :
+- son âge,
+- la durée du malaise,
+- s’il s’agit de la première fois qu’elle présente ce malaise,
+- les traitements médicamenteux qu’elle suit,
+- les maladies ou hospitalisations récentes dont elle a fait l’objet.
+Prendre un avis médical et appliquer les consignes
+Transmettre les informations recueillies au SAMU - Centre 15. Le médecin régulateur peut demander à parler directement à la victime si cela est possible.
+Le sauveteur veillera à transmettre tous les éléments constatés. Appliquer les consignes données par les secours
+Rassurer et surveiller
+Rassurer la victime en lui parlant régulièrement.
+       Figure 47 : Mettre la victime au repos, alerter.
+       
+ GUIDE pratique 57 PREMIERS SECOURS
+   En cas d’aggravation :
+- recontacter les services de secours pour signaler cette aggravation,
+- pratiquer les gestes qui s’imposent si elle devient inconsciente.
+ Si une victime le demande, ou sur consigne du médecin préalablement alerté, il est possible d’aider la victime à prendre du sucre en morceau ou son traitement médicamenteux en respectant les doses prescrites.
+En effet, dans certaines maladies (maladie cardiaque, asthme, diabète), un traitement particulier peut être prit en cas de survenu d’un malaise.
+
+58 GUIDE pratique PREMIERS SECOURS
+    
+ GUIDE pratique 59 PREMIERS SECOURS
+   PLAIE
+Situation
+La victime est consciente et présente une plaie (fig. 48).
+Objectif
+Adapter les gestes de secours spécifiques à la gravité d’une plaie.
+Définition
+La plaie est une lésion de la peau, revêtement protecteur du corps, avec une atteinte possible des tissus situés dessous.
+Causes
+  Figure 48 : La victime présente une plaie
+La plaie est généralement secondaire à un traumatisme, elle est provoquée par une coupure, une éraflure, une morsure ou une piqure.
+Signes
+Une plaie est qualifiée de :
+- plaie grave du fait :
+- d’une hémorragie associée,
+- d’un mécanisme pénétrant : objet tranchant ou perforant, morsures, projectiles, ... - de sa localisation thoracique, abdominale ou oculaire,
+- de son aspect : déchiqueté, écrasé, ...
+- plaie simple, lorsqu’il s’agit d’une petite coupure superficielle, d’une éraflure saignant peu, qui n’est pas située au niveau d’un orifice naturel ou de l’œil.
+NB : en cas de doute sur la reconnaissance de la gravité d’une plaie, le sauveteur considéra la plaie comme grave jusqu'à l’obtention d’un avis médical (médecin, SAMU - Centre 15).
+Risques
+Suivant son importance et sa localisation, une plaie peut être à l’origine d’une aggravation immédiate de l’état de la victime par hémorragie ou par défaillance de la respiration.
+Elle peut être aussi à l’origine d’une infection secondaire, la plus grave étant le tétanos.
+
+60 GUIDE pratique PREMIERS SECOURS
+Le tétanos est une maladie très grave, parfois mortelle. Seule la vaccination antitétanique, effectuée tous les 10 ans chez l’adulte ou tous les 5 ans chez l’enfant, protège de cette maladie.
+Principe d’action
+Le sauveteur doit identifier la gravité de la plaie afin d’adopter une conduite à tenir adaptée. Conduite à tenir
+Devant une victime consciente qui présente une plaie, le sauveteur doit évaluer sa gravité et adopter la conduite à tenir adaptée.
+Plaie grave
+Installer sans délai la victime en position d’attente :
+- assise en présence d’une plaie au thorax ; la position assise facilite la respiration,
+- allongée, jambes fléchies en présence d’une plaie de l’abdomen ; la flexion des jambes préalablement allongées permet, par le relâchement des muscles de l’abdomen, de diminuer la douleur,
+- yeux fermés et tête immobilisée en présence d’une plaie à l’œil ; la fermeture des yeux et l’immobilisation de la tête en demandant à la victime de ne pas bouger permettent de limiter les risques d’aggravation de la lésion,
+- allongée dans tous les autres cas ; la position allongée permet de prévenir les détresses et d’éviter les complications.
+Protéger la victime de la chaleur, du froid ou des intempéries,
+Appeler les secours,
+Appliquer les consignes données par les secours,
+Surveiller la victime et la réconforter en lui parlant régulièrement et en lui expliquant ce qui se passe. Plaie simple
+Se laver les mains à l’eau et au savon, Nettoyer la plaie :
+- Rincer abondamment la plaie à l’eau courante, avec ou sans savon, en s’aidant d’une compresse si besoin pour enlever les souillures.
+- Le lavage à l’eau, avec ou sans savon, permet d’éliminer la plupart des germes qui pourraient provoquer une infection.
+Désinfecter la plaie :
+- Utiliser éventuellement un antiseptique.
+Protéger par un pansement adhésif (fig. 49) :
+- Le pansement adhésif évite à la plaie d’être à nouveau souillée (fig. 50). Ce dernier ne collera parfaitement à la peau que quand elle sera sèche
+Vérifier l'existence d’une vaccination antitétanique en cours de validité,
+        Figure 49 : Protéger la plaie par un pansement adhésif.
+
+ GUIDE pratique 61 PREMIERS SECOURS
+En l’absence de vaccination antitétanique valide ou en cas d’apparition dans les jours qui suivent de fièvre, d’une zone chaude, rouge, gonflée ou douloureuse, conseiller la victime de consulter un médecin.
+Se laver les mains après avoir réaliser les gestes de premier secours.
+Figure 50 : Pansement adhésif
+     Il ne faut jamais retirer ou manipuler un corps étranger planté dans une plaie (couteau, morceau de verre) afin d’éviter une aggravation de la lésion ou du saignement.
+
+62 GUIDE pratique PREMIERS SECOURS
+    
+ GUIDE pratique 63 PREMIERS SECOURS
+   BRULURE
+Situation
+La victime est consciente et présente une brûlure (fig. 45).
+Objectif
+Adapter les gestes de secours spécifiques à la gravité d’une brulure.
+Définition
+La brûlure est une lésion de la peau, des voies aériennes ou digestives le plus souvent du fait d’une élévation locale de la température.
+Causes
+  Figure 51 : La victime présente une brulure
+La brûlure peut être provoquée par la chaleur, les substances chimiques, l’électricité, le frottement ou les radiations. Signes
+Une brûlure est qualifiée de :
+- brûlure grave, dès lors que l’on est en présence :
+o d’une ou plusieurs cloques dont la surface totale est supérieure à celle de la moitié de la paume de la main de la victime,
+o d’une destruction plus profonde (aspect blanchâtre ou noirâtre, parfois indolore) associée souvent à des cloques et une rougeur plus ou moins étendue,
+o d’une brûlure située sur le visage ou le cou, les mains, les articulations ou au voisinage des orifices naturels,
+o d’une rougeur étendue de la peau chez l’enfant (un coup de soleil généralisé par exemple), d’une brûlure d’origine électrique ou radiologique.
+- brûlure simple, lorsqu’il s’agit de rougeurs de la peau chez l’adulte ou d’une cloque dont la surface est inférieure à celle de la moitié de la paume de la main de la victime.
+NB : en cas de doute sur la reconnaissance de la gravité d’une brûlure, le sauveteur considérera la brûlure comme grave jusqu'à l’obtention d’un avis médical (médecin, SAMU–Centre 15).
+
+64 GUIDE pratique PREMIERS SECOURS
+Risques
+Suivant l’étendue, la profondeur et la localisation, la brûlure peut entrainer :
+- un danger immédiat comme une défaillance circulatoire (en cas de brûlure étendue) ou respiratoire (lors d’une
+brûlure au visage ou consécutive à l'inhalation de fumée),
+- une douleur sévère,
+- des conséquences retardées comme l’infection, les séquelles fonctionnelles ou esthétiques.
+Principe d’action
+Le sauveteur doit refroidir toute brûlure, identifier sa gravité et adapter les gestes de premiers secours.
+Conduite à tenir
+Devant une victime qui présente une brûlure et dans tout les cas, le sauveteur doit :
+- Refroidir la surface brûlée par ruissellement d’eau tempérée du robinet (15 à 25°C), au plus tard dans les 30 minutes suivant la brûlure ; ce refroidissement immédiat limite l’extension de la brûlure, ses conséquences et la douleur (fig. 46),
+- en parallèle, retirer les vêtements, s’ils n’adhèrent pas à la peau,
+- évaluer la gravité de la brûlure.
+Brulure grave
+Alerter les secours,
+Poursuivre le refroidissement, selon les consignes données,
+Installer la victime en position adaptée, après refroidissement :
+- allongée en général,
+- assise en cas de gène respiratoire.
+Protéger si possible par un drap propre, sans recouvrir la partie brûlée, Surveiller continuellement.
+Brûlure simple
+Poursuivre le refroidissement, jusqu’à disparition de la douleur,
+Ne jamais percer les cloques,
+Protéger les cloques par un pansement stérile,
+Demander un avis médical :
+- en l’absence de vaccination antitétanique valide,
+- s’il s’agit d’un enfant ou d’un nourrisson,
+- en cas d’apparition dans les jours qui suivent de fièvre, d’une zone chaude, rouge, gonflée ou douloureuse.
+      Figure 52 : Refroidir la brûlure
+  
+ GUIDE pratique 65 PREMIERS SECOURS
+   Autres brûlures
+Brûlure par produits chimiques
+ Arroser immédiatement et abondamment à l’eau courante tempérée, jusqu’à un avis médical :
+- l’ensemble du corps en cas de projection sur les vêtements ou la peau,
+- l’œil, s’il est atteint, en veillant à ce que l’eau de lavage ne coule pas sur l’autre œil,
+Oter les vêtements imbibés de produits, en se protégeant.
+Ne jamais faire vomir ou boire, en cas d’ingestion de produit chimique. Conserver l’emballage du produit en cause.
+Demander un avis médical au Centre 15.
+Appliquer les consignes données par les secours.
+Brûlure électrique
+Ne jamais toucher la victime avant la suppression du risque.
+Arroser la zone visiblement brulée à l’eau courante tempérée.
+Alerter les secours.
+Appliquer les consignes.
+Brûlure interne par inhalation
+Placer en position assise, en cas de difficultés respiratoires.
+Demander un avis médical.
+Appliquer les consignes.
+
+66 GUIDE pratique PREMIERS SECOURS
+    
+ GUIDE pratique 67 PREMIERS SECOURS
+TRAUMATISME DES OS ET ARTICULATIONS
+Situation
+La victime est consciente et se plaint après un traumatisme (fig. 47).
+Objectif
+Eviter toute mobilisation d’une victime d’un traumatisme des os et des articulations en attendant les secours.
+Définition
+Un traumatisme se défini comme une lésion des os (fracture), des articulations (entorse ou luxation), des organes ou de la peau.
+Ces dernières ont été envisagées dans les 2
+chapitres précédents (plaies et brûlures). Un traumatisme peut atteindre toutes les parties du corps.
+Causes
+Les traumatismes peuvent être le résultat d’un coup, d’une chute ou d’un faux mouvement.
+Signes
+Les principaux signes qui caractérisent les traumatismes sont :
+- une douleur souvent vive,
+- l’impossibilité de bouger particulièrement le membre traumatisé,
+- un gonflement et/ou une déformation visible de la zone atteinte.
+Risques
+Lorsque le choc ou le coup se situe au niveau de la tête, le danger principal réside dans l’atteinte du cerveau qui peut se révéler par une perte de connaissance immédiate ou secondaire et par d’autres signes comme une agitation ou une somnolence, des maux de tête persistants, des vomissements.
+Lorsque le choc atteint la colonne vertébrale (douleur du dos ou de la nuque), le danger principal réside dans la lésion de la moelle épinière (qui passe dans la colonne vertébrale) et risque d’entraîner une paralysie.
+     Figure 53 : La victime présente un traumatisme
+
+68 GUIDE pratique PREMIERS SECOURS
+Lorsque le choc atteint le thorax ou l’abdomen, le danger réside dans l’atteinte des organes qui sont dans le thorax ou dans l’abdomen et se révèle par une difficulté respiratoire ou la survenue d’un malaise dû à un saignement interne.
+En ce qui concerne les traumatismes de membres, une atteinte de leur squelette peut s’accompagner d’une lésion des organes adjacents (nerfs, vaisseaux, muscles) et provoquer des séquelles importantes.
+Principe d’action
+Le sauveteur ne doit pas mobiliser la victime.
+Conduite à tenir
+La victime a perdu connaissance
+Adopter la conduite à tenir face à une victime qui a perdu connaissance.
+La victime est consciente et présente immédiatement des signes :
+Conseiller fermement de ne pas mobiliser la partie atteinte (fig. 48),
+Alerter les secours,
+Appliquer les consignes,
+Protéger de la chaleur, du froid ou des intempéries,
+Surveiller et parler régulièrement à la victime.
+La victime est consciente et ne présente pas de signes immédiats :
+Surveiller régulièrement la victime,
+Adopter la conduite à tenir face à un malaise si un signe apparait secondairement.
+       Figure 54 : Demander à la victime de ne pas bouger
+    
+ GUIDE pratique 69 PREMIERS SECOURS
+SCHEMA GENERAL DE L’ACTION DE SECOURS (PSC 1)
+    
+70 GUIDE pratique PREMIERS SECOURS
+     Remerciements...
+
+ 
+    Un guide des$né à la prise en charge par le citoyen de toute personne vic$me d’un accident ou d’un malaise
+Un contenu conforme à l’arrêté du 16 novembre 2011 fixant le référen$el na$onal de compétences de sécurité civile rela$f à l’unité d’enseignement « préven$on et secours civiques de niveau 1 »
+GUIDE pra$que Collec/on du centre municipal de forma/on aux techniques de premiers secours
+Ce guide à été élaboré par le Dr Daniel MEYRAN
+Avec l’aide des instructeurs de secourisme du Bataillon de Marins Pompiers de Marseille et les membres de l’équipe pédagogique na/onale de la Croix-Rouge Française.
+Tous les schémas et illustra/ons de ce guide on été réalisés par le Dr Denis LARGER
+  Bataillon de Marins Pompiers de Marseille Groupement Santé 9, boulevard de Strasbourg 13233 Marseille cedex 20 tél:+33495054082Fax:+33495054078 www.marinspompiersdemarseille.com
+   
