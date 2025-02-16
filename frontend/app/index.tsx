@@ -160,7 +160,7 @@ export default function Index() {
 
   const playSound = async (id: string) => {
     const sounds: { [key: string]: any } = {
-      "0": require("./audios/heimlich.wav"),
+      "0": require("./audios/heimlich.mpeg"),
 
     };
 
