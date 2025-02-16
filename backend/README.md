@@ -14,11 +14,11 @@ pip install RealTimeSTT
 ```
 And activate your venv. You'll also need to create a REDIS DB. 
 
-Change in the frontend code (frontend/app/index.tsx) the serveur IP and the backend code backend (backend/backend.py) the db IP.
+Change in the frontend code (frontend/app/index.tsx) the serveur IP and the backend code backend (backend/stt_2.py) the db IP.
 
 You need to export your Mistral api key:
 ```
 export MISTRAL_API_KEY=
 ```
 
-To run the server run "python3 backend/backend.py".
+To run the server run "python3 backend/stt_2.py".
